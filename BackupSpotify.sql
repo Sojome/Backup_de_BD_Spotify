@@ -247,19 +247,19 @@ INSERT INTO `login` VALUES (1,'bchance0@microsoft.com','5wT5J1D','NsToyAoo',86),
 UNLOCK TABLES;
 
 --
--- Temporary table structure for view `reporte creada por el estudiante`
+-- Temporary table structure for view `reporte_creada_por_el_estudiante`
 --
 
-DROP TABLE IF EXISTS `reporte creada por el estudiante`;
-/*!50001 DROP VIEW IF EXISTS `reporte creada por el estudiante`*/;
+DROP TABLE IF EXISTS `reporte_creada_por_el_estudiante`;
+/*!50001 DROP VIEW IF EXISTS `reporte_creada_por_el_estudiante`*/;
 SET @saved_cs_client     = @@character_set_client;
 SET character_set_client = utf8;
-/*!50001 CREATE TABLE `reporte creada por el estudiante` (
-  `titulo` tinyint NOT NULL,
+/*!50001 CREATE TABLE `reporte_creada_por_el_estudiante` (
+  `Titulo` tinyint NOT NULL,
   `Artista` tinyint NOT NULL,
   `Album` tinyint NOT NULL,
-  `duracion` tinyint NOT NULL,
-  `Año de creacion` tinyint NOT NULL
+  `Duracion` tinyint NOT NULL,
+  `Año_de_creacion` tinyint NOT NULL
 ) ENGINE=MyISAM */;
 SET character_set_client = @saved_cs_client;
 
@@ -272,11 +272,11 @@ DROP TABLE IF EXISTS `reporte_de_canciones_mas_escuchados`;
 SET @saved_cs_client     = @@character_set_client;
 SET character_set_client = utf8;
 /*!50001 CREATE TABLE `reporte_de_canciones_mas_escuchados` (
-  `Titulo de la cancion` tinyint NOT NULL,
-  `Nombre del album` tinyint NOT NULL,
-  `Nombre del artista` tinyint NOT NULL,
-  `Cantidad de veces escuchando` tinyint NOT NULL,
-  `Cantidad de usuarios` tinyint NOT NULL
+  `Titulo` tinyint NOT NULL,
+  `Album` tinyint NOT NULL,
+  `Artista` tinyint NOT NULL,
+  `Cantidad_de_veces_escuchando` tinyint NOT NULL,
+  `Cantidad_de_usuarios` tinyint NOT NULL
 ) ENGINE=MyISAM */;
 SET character_set_client = @saved_cs_client;
 
@@ -289,9 +289,9 @@ DROP TABLE IF EXISTS `reporte_de_ingresos_de_usuarios`;
 SET @saved_cs_client     = @@character_set_client;
 SET character_set_client = utf8;
 /*!50001 CREATE TABLE `reporte_de_ingresos_de_usuarios` (
-  `Nombre de usuario` tinyint NOT NULL,
-  `Ultimo ingreso` tinyint NOT NULL,
-  `Cantidad de ingresos en total` tinyint NOT NULL
+  `Nombre_de_usuario` tinyint NOT NULL,
+  `Ultimo_ingreso` tinyint NOT NULL,
+  `Cantidad_de_ingresos_en_total` tinyint NOT NULL
 ) ENGINE=MyISAM */;
 SET character_set_client = @saved_cs_client;
 
@@ -324,20 +324,20 @@ INSERT INTO `usuario` VALUES (1,'Solène','Cally','Mounsey','2019-10-29 00:00:00
 UNLOCK TABLES;
 
 --
--- Final view structure for view `reporte creada por el estudiante`
+-- Final view structure for view `reporte_creada_por_el_estudiante`
 --
 
-/*!50001 DROP TABLE IF EXISTS `reporte creada por el estudiante`*/;
-/*!50001 DROP VIEW IF EXISTS `reporte creada por el estudiante`*/;
+/*!50001 DROP TABLE IF EXISTS `reporte_creada_por_el_estudiante`*/;
+/*!50001 DROP VIEW IF EXISTS `reporte_creada_por_el_estudiante`*/;
 /*!50001 SET @saved_cs_client          = @@character_set_client */;
 /*!50001 SET @saved_cs_results         = @@character_set_results */;
 /*!50001 SET @saved_col_connection     = @@collation_connection */;
 /*!50001 SET character_set_client      = utf8mb4 */;
 /*!50001 SET character_set_results     = utf8mb4 */;
-/*!50001 SET collation_connection      = utf8mb4_general_ci */;
+/*!50001 SET collation_connection      = utf8mb4_unicode_ci */;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
 /*!50013 DEFINER=`root`@`%` SQL SECURITY DEFINER */
-/*!50001 VIEW `reporte creada por el estudiante` AS select `cancion`.`titulo` AS `titulo`,`artista`.`nombre` AS `Artista`,`album`.`nombre` AS `Album`,`cancion`.`duracion` AS `duracion`,`cancion`.`anio_de_creacion` AS `Año de creacion` from ((`cancion` join `album`) join `artista`) where `album`.`id_album` = `cancion`.`id_album` and `artista`.`id_artista` = `album`.`id_artista` and (`artista`.`nombre` like 'A%' or `artista`.`nombre` like 'P%') and `cancion`.`favorita` = 1 and `cancion`.`anio_de_creacion` > 2001 */;
+/*!50001 VIEW `reporte_creada_por_el_estudiante` AS select `cancion`.`titulo` AS `Titulo`,`artista`.`nombre` AS `Artista`,`album`.`nombre` AS `Album`,`cancion`.`duracion` AS `Duracion`,`cancion`.`anio_de_creacion` AS `Año_de_creacion` from ((`cancion` join `album`) join `artista`) where `album`.`id_album` = `cancion`.`id_album` and `artista`.`id_artista` = `album`.`id_artista` and (`artista`.`nombre` like 'A%' or `artista`.`nombre` like 'P%') and `cancion`.`favorita` = 1 and `cancion`.`anio_de_creacion` > 2001 */;
 /*!50001 SET character_set_client      = @saved_cs_client */;
 /*!50001 SET character_set_results     = @saved_cs_results */;
 /*!50001 SET collation_connection      = @saved_col_connection */;
@@ -353,10 +353,10 @@ UNLOCK TABLES;
 /*!50001 SET @saved_col_connection     = @@collation_connection */;
 /*!50001 SET character_set_client      = utf8mb4 */;
 /*!50001 SET character_set_results     = utf8mb4 */;
-/*!50001 SET collation_connection      = utf8mb4_general_ci */;
+/*!50001 SET collation_connection      = utf8mb4_unicode_ci */;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
 /*!50013 DEFINER=`root`@`%` SQL SECURITY DEFINER */
-/*!50001 VIEW `reporte_de_canciones_mas_escuchados` AS select `cancion`.`titulo` AS `Titulo de la cancion`,`album`.`nombre` AS `Nombre del album`,`artista`.`nombre` AS `Nombre del artista`,count(`cancion_escuchada`.`id_cancion`) AS `Cantidad de veces escuchando`,count(distinct `usuario`.`id_usuario`) AS `Cantidad de usuarios` from ((((`cancion` join `album`) join `artista`) join `usuario`) join `cancion_escuchada`) where `cancion`.`id_album` = `album`.`id_album` and `artista`.`id_artista` = `album`.`id_artista` and `usuario`.`id_usuario` = `cancion_escuchada`.`id_usuario` and `cancion`.`id_cancion` = `cancion_escuchada`.`id_cancion` group by `cancion`.`titulo` order by count(`cancion_escuchada`.`id_cancion`) desc limit 5 */;
+/*!50001 VIEW `reporte_de_canciones_mas_escuchados` AS select `cancion`.`titulo` AS `Titulo`,`album`.`nombre` AS `Album`,`artista`.`nombre` AS `Artista`,count(`cancion_escuchada`.`id_cancion`) AS `Cantidad_de_veces_escuchando`,count(distinct `usuario`.`id_usuario`) AS `Cantidad_de_usuarios` from ((((`cancion` join `album`) join `artista`) join `usuario`) join `cancion_escuchada`) where `cancion`.`id_album` = `album`.`id_album` and `artista`.`id_artista` = `album`.`id_artista` and `usuario`.`id_usuario` = `cancion_escuchada`.`id_usuario` and `cancion`.`id_cancion` = `cancion_escuchada`.`id_cancion` group by `cancion`.`titulo` order by count(`cancion_escuchada`.`id_cancion`) desc limit 5 */;
 /*!50001 SET character_set_client      = @saved_cs_client */;
 /*!50001 SET character_set_results     = @saved_cs_results */;
 /*!50001 SET collation_connection      = @saved_col_connection */;
@@ -372,10 +372,10 @@ UNLOCK TABLES;
 /*!50001 SET @saved_col_connection     = @@collation_connection */;
 /*!50001 SET character_set_client      = utf8mb4 */;
 /*!50001 SET character_set_results     = utf8mb4 */;
-/*!50001 SET collation_connection      = utf8mb4_general_ci */;
+/*!50001 SET collation_connection      = utf8mb4_unicode_ci */;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
 /*!50013 DEFINER=`root`@`%` SQL SECURITY DEFINER */
-/*!50001 VIEW `reporte_de_ingresos_de_usuarios` AS select `usuario`.`nombre` AS `Nombre de usuario`,`auditoria`.`hora_entrada` AS `Ultimo ingreso`,count(`auditoria`.`id_usuario`) AS `Cantidad de ingresos en total` from (`usuario` join `auditoria`) where `auditoria`.`descripcion` = 'login' and `usuario`.`id_usuario` = `auditoria`.`id_usuario` group by `auditoria`.`id_usuario` */;
+/*!50001 VIEW `reporte_de_ingresos_de_usuarios` AS select `usuario`.`nombre` AS `Nombre_de_usuario`,`auditoria`.`hora_entrada` AS `Ultimo_ingreso`,count(`auditoria`.`id_usuario`) AS `Cantidad_de_ingresos_en_total` from (`usuario` join `auditoria`) where `auditoria`.`descripcion` = 'login' and `usuario`.`id_usuario` = `auditoria`.`id_usuario` group by `auditoria`.`id_usuario` */;
 /*!50001 SET character_set_client      = @saved_cs_client */;
 /*!50001 SET character_set_results     = @saved_cs_results */;
 /*!50001 SET collation_connection      = @saved_col_connection */;
@@ -389,4 +389,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-06-01 18:03:14
+-- Dump completed on 2020-06-04  5:24:29
