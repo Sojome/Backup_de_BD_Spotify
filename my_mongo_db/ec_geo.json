@@ -1,0 +1,7825 @@
+[{
+  "_id": {
+    "$oid": "5f07c2144f158c6ba82dbb90"
+  },
+  "Provincia": "AZUAY",
+  "cod_prov": 1,
+  "Cantones": [
+    {
+      "Canton": "CAMILO PONCE ENRIQUEZ",
+      "cod_cant": 115,
+      "Parroquias": [
+        {
+          "Parroquia": "CAMILO PONCE ENRIQUEZ",
+          "cod_parr": 11550
+        },
+        {
+          "Parroquia": "EL CARMEN DE PIJILI",
+          "cod_parr": 11551
+        }
+      ]
+    },
+    {
+      "Canton": "CHORDELEG",
+      "cod_cant": 111,
+      "Parroquias": [
+        {
+          "Parroquia": "CHORDELEG",
+          "cod_parr": 11150
+        },
+        {
+          "Parroquia": "PRINCIPAL",
+          "cod_parr": 11151
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 11152
+        },
+        {
+          "Parroquia": "LUIS GALARZA ORELLANA",
+          "cod_parr": 11153
+        },
+        {
+          "Parroquia": "SAN MARTIN DE PUZHIO",
+          "cod_parr": 11154
+        }
+      ]
+    },
+    {
+      "Canton": "CUENCA",
+      "cod_cant": 101,
+      "Parroquias": [
+        {
+          "Parroquia": "BELLAVISTA",
+          "cod_parr": 10101
+        },
+        {
+          "Parroquia": "CAÑARIBAMBA",
+          "cod_parr": 10102
+        },
+        {
+          "Parroquia": "EL BATAN",
+          "cod_parr": 10103
+        },
+        {
+          "Parroquia": "EL SAGRARIO",
+          "cod_parr": 10104
+        },
+        {
+          "Parroquia": "EL VECINO",
+          "cod_parr": 10105
+        },
+        {
+          "Parroquia": "GIL RAMIREZ DAVALOS",
+          "cod_parr": 10106
+        },
+        {
+          "Parroquia": "HUAYNACAPAC",
+          "cod_parr": 10107
+        },
+        {
+          "Parroquia": "MACHANGARA",
+          "cod_parr": 10108
+        },
+        {
+          "Parroquia": "MONAY",
+          "cod_parr": 10109
+        },
+        {
+          "Parroquia": "SAN BLAS",
+          "cod_parr": 10110
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN",
+          "cod_parr": 10111
+        },
+        {
+          "Parroquia": "SUCRE",
+          "cod_parr": 10112
+        },
+        {
+          "Parroquia": "TOTORACOCHA",
+          "cod_parr": 10113
+        },
+        {
+          "Parroquia": "YANUNCAY",
+          "cod_parr": 10114
+        },
+        {
+          "Parroquia": "HERMANO MIGUEL",
+          "cod_parr": 10115
+        },
+        {
+          "Parroquia": "CUENCA",
+          "cod_parr": 10150
+        },
+        {
+          "Parroquia": "BAÑOS",
+          "cod_parr": 10151
+        },
+        {
+          "Parroquia": "CUMBE",
+          "cod_parr": 10152
+        },
+        {
+          "Parroquia": "CHAUCHA",
+          "cod_parr": 10153
+        },
+        {
+          "Parroquia": "CHECA (JIDCAY)",
+          "cod_parr": 10154
+        },
+        {
+          "Parroquia": "CHIQUINTAD",
+          "cod_parr": 10155
+        },
+        {
+          "Parroquia": "LLACAO",
+          "cod_parr": 10156
+        },
+        {
+          "Parroquia": "MOLLETURO",
+          "cod_parr": 10157
+        },
+        {
+          "Parroquia": "NULTI",
+          "cod_parr": 10158
+        },
+        {
+          "Parroquia": "OCTAVIO CORDERO PALACIOS (SANTA ROSA)",
+          "cod_parr": 10159
+        },
+        {
+          "Parroquia": "PACCHA",
+          "cod_parr": 10160
+        },
+        {
+          "Parroquia": "QUINGEO",
+          "cod_parr": 10161
+        },
+        {
+          "Parroquia": "RICAURTE",
+          "cod_parr": 10162
+        },
+        {
+          "Parroquia": "SAN JOAQUIN",
+          "cod_parr": 10163
+        },
+        {
+          "Parroquia": "SANTA ANA",
+          "cod_parr": 10164
+        },
+        {
+          "Parroquia": "SAYAUSI",
+          "cod_parr": 10165
+        },
+        {
+          "Parroquia": "SIDCAY",
+          "cod_parr": 10166
+        },
+        {
+          "Parroquia": "SININCAY",
+          "cod_parr": 10167
+        },
+        {
+          "Parroquia": "TARQUI",
+          "cod_parr": 10168
+        },
+        {
+          "Parroquia": "TURI",
+          "cod_parr": 10169
+        },
+        {
+          "Parroquia": "VALLE",
+          "cod_parr": 10170
+        },
+        {
+          "Parroquia": "VICTORIA DEL PORTETE (IRQUIS)",
+          "cod_parr": 10171
+        }
+      ]
+    },
+    {
+      "Canton": "EL PAN",
+      "cod_cant": 112,
+      "Parroquias": [
+        {
+          "Parroquia": "EL PAN",
+          "cod_parr": 11250
+        },
+        {
+          "Parroquia": "SAN VICENTE",
+          "cod_parr": 11253
+        }
+      ]
+    },
+    {
+      "Canton": "GIRON",
+      "cod_cant": 102,
+      "Parroquias": [
+        {
+          "Parroquia": "GIRON",
+          "cod_parr": 10250
+        },
+        {
+          "Parroquia": "ASUNCION",
+          "cod_parr": 10251
+        },
+        {
+          "Parroquia": "SAN GERARDO",
+          "cod_parr": 10252
+        }
+      ]
+    },
+    {
+      "Canton": "GUACHAPALA",
+      "cod_cant": 114,
+      "Parroquias": [
+        {
+          "Parroquia": "GUACHAPALA",
+          "cod_parr": 11450
+        }
+      ]
+    },
+    {
+      "Canton": "GUALACEO",
+      "cod_cant": 103,
+      "Parroquias": [
+        {
+          "Parroquia": "GUALACEO",
+          "cod_parr": 10350
+        },
+        {
+          "Parroquia": "DANIEL CORDOVA TORAL (EL ORIENTE)",
+          "cod_parr": 10352
+        },
+        {
+          "Parroquia": "JADAN",
+          "cod_parr": 10353
+        },
+        {
+          "Parroquia": "MARIANO MORENO",
+          "cod_parr": 10354
+        },
+        {
+          "Parroquia": "REMIGIO CRESPO TORAL (GULAG)",
+          "cod_parr": 10356
+        },
+        {
+          "Parroquia": "SAN JUAN",
+          "cod_parr": 10357
+        },
+        {
+          "Parroquia": "ZHIDMAD",
+          "cod_parr": 10358
+        },
+        {
+          "Parroquia": "LUIS CORDERO VEGA",
+          "cod_parr": 10359
+        },
+        {
+          "Parroquia": "SIMÓN BOLÍVAR (CAB. EN GAÑANZOL)",
+          "cod_parr": 10360
+        }
+      ]
+    },
+    {
+      "Canton": "NABON",
+      "cod_cant": 104,
+      "Parroquias": [
+        {
+          "Parroquia": "NABON",
+          "cod_parr": 10450
+        },
+        {
+          "Parroquia": "COCHAPATA",
+          "cod_parr": 10451
+        },
+        {
+          "Parroquia": "EL PROGRESO",
+          "cod_parr": 10452
+        },
+        {
+          "Parroquia": "LAS NIEVES (CHAYA)",
+          "cod_parr": 10453
+        },
+        {
+          "Parroquia": "LA PAZ",
+          "cod_parr": 10455
+        }
+      ]
+    },
+    {
+      "Canton": "OÑA",
+      "cod_cant": 110,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN FELIPE DE OÑA",
+          "cod_parr": 11050
+        },
+        {
+          "Parroquia": "SUSUDEL",
+          "cod_parr": 11051
+        }
+      ]
+    },
+    {
+      "Canton": "PAUTE",
+      "cod_cant": 105,
+      "Parroquias": [
+        {
+          "Parroquia": "PAUTE",
+          "cod_parr": 10550
+        },
+        {
+          "Parroquia": "BULAN (JOSE VICTOR IZQUIERDO)",
+          "cod_parr": 10552
+        },
+        {
+          "Parroquia": "CHICAN (GUILLERMO ORTEGA)",
+          "cod_parr": 10553
+        },
+        {
+          "Parroquia": "EL CABO",
+          "cod_parr": 10554
+        },
+        {
+          "Parroquia": "GUARAINAG",
+          "cod_parr": 10556
+        },
+        {
+          "Parroquia": "SAN CRISTOBAL (CARLOS ORDOÑEZ LAZO)",
+          "cod_parr": 10559
+        },
+        {
+          "Parroquia": "TOMEBAMBA",
+          "cod_parr": 10561
+        },
+        {
+          "Parroquia": "DUG-DUG",
+          "cod_parr": 10562
+        }
+      ]
+    },
+    {
+      "Canton": "PUCARÁ",
+      "cod_cant": 106,
+      "Parroquias": [
+        {
+          "Parroquia": "PUCARA",
+          "cod_parr": 10650
+        },
+        {
+          "Parroquia": "SAN RAFAEL DE SHARUG",
+          "cod_parr": 10652
+        }
+      ]
+    },
+    {
+      "Canton": "SAN FERNANDO",
+      "cod_cant": 107,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN FERNANDO",
+          "cod_parr": 10750
+        },
+        {
+          "Parroquia": "CHUMBLIN",
+          "cod_parr": 10751
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA ISABEL",
+      "cod_cant": 108,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTA ISABEL (CHAGUARURCO)",
+          "cod_parr": 10850
+        },
+        {
+          "Parroquia": "ABDON CALDERON (LA UNION)",
+          "cod_parr": 10851
+        },
+        {
+          "Parroquia": "EL CARMEN DE PIJILI",
+          "cod_parr": 10852
+        },
+        {
+          "Parroquia": "ZHAGLLI (SHAGLLI)",
+          "cod_parr": 10853
+        }
+      ]
+    },
+    {
+      "Canton": "SEVILLA DE ORO",
+      "cod_cant": 113,
+      "Parroquias": [
+        {
+          "Parroquia": "SEVILLA DE ORO",
+          "cod_parr": 11350
+        },
+        {
+          "Parroquia": "AMALUZA",
+          "cod_parr": 11351
+        },
+        {
+          "Parroquia": "PALMAS",
+          "cod_parr": 11352
+        }
+      ]
+    },
+    {
+      "Canton": "SÍGSIG",
+      "cod_cant": 109,
+      "Parroquias": [
+        {
+          "Parroquia": "SIGSIG",
+          "cod_parr": 10950
+        },
+        {
+          "Parroquia": "CUCHIL (CUTCHIL)",
+          "cod_parr": 10951
+        },
+        {
+          "Parroquia": "GIMA",
+          "cod_parr": 10952
+        },
+        {
+          "Parroquia": "GUEL",
+          "cod_parr": 10953
+        },
+        {
+          "Parroquia": "LUDO",
+          "cod_parr": 10954
+        },
+        {
+          "Parroquia": "SAN BARTOLOME",
+          "cod_parr": 10955
+        },
+        {
+          "Parroquia": "SAN JOSE DE RARANGA",
+          "cod_parr": 10956
+        }
+      ]
+    },
+    {
+      "Canton": "CAMILO PONCE ENRIQUEZ",
+      "cod_cant": 115,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHORDELEG",
+      "cod_cant": 111,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CUENCA",
+      "cod_cant": 101,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL PAN",
+      "cod_cant": 112,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GIRON",
+      "cod_cant": 102,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUACHAPALA",
+      "cod_cant": 114,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUALACEO",
+      "cod_cant": 103,
+      "Parroquias": []
+    },
+    {
+      "Canton": "NABON",
+      "cod_cant": 104,
+      "Parroquias": []
+    },
+    {
+      "Canton": "OÑA",
+      "cod_cant": 110,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PAUTE",
+      "cod_cant": 105,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUCARÁ",
+      "cod_cant": 106,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN FERNANDO",
+      "cod_cant": 107,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA ISABEL",
+      "cod_cant": 108,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SEVILLA DE ORO",
+      "cod_cant": 113,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SÍGSIG",
+      "cod_cant": 109,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2154f158c6ba82dbb91"
+  },
+  "Provincia": "BOLIVAR",
+  "cod_prov": 2,
+  "Cantones": [
+    {
+      "Canton": "CALUMA",
+      "cod_cant": 206,
+      "Parroquias": [
+        {
+          "Parroquia": "CALUMA",
+          "cod_parr": 20650
+        }
+      ]
+    },
+    {
+      "Canton": "CHILLANES",
+      "cod_cant": 202,
+      "Parroquias": [
+        {
+          "Parroquia": "CHILLANES",
+          "cod_parr": 20250
+        },
+        {
+          "Parroquia": "SAN JOSE DEL TAMBO (TAMBOPAMBA)",
+          "cod_parr": 20251
+        }
+      ]
+    },
+    {
+      "Canton": "CHIMBO",
+      "cod_cant": 203,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN JOSE DE CHIMBO",
+          "cod_parr": 20350
+        },
+        {
+          "Parroquia": "ASUNCION (ASANCOTO)",
+          "cod_parr": 20351
+        },
+        {
+          "Parroquia": "MAGDALENA (CHAPACOTO)",
+          "cod_parr": 20353
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN",
+          "cod_parr": 20354
+        },
+        {
+          "Parroquia": "TELIMBELA",
+          "cod_parr": 20355
+        }
+      ]
+    },
+    {
+      "Canton": "ECHANDIA",
+      "cod_cant": 204,
+      "Parroquias": [
+        {
+          "Parroquia": "ECHEANDIA",
+          "cod_parr": 20450
+        }
+      ]
+    },
+    {
+      "Canton": "GUARANDA",
+      "cod_cant": 201,
+      "Parroquias": [
+        {
+          "Parroquia": "ANGEL POLIBIO CHAVEZ",
+          "cod_parr": 20101
+        },
+        {
+          "Parroquia": "GABRIEL IGNACIO VEINTIMILLA",
+          "cod_parr": 20102
+        },
+        {
+          "Parroquia": "GUANUJO",
+          "cod_parr": 20103
+        },
+        {
+          "Parroquia": "GUARANDA",
+          "cod_parr": 20150
+        },
+        {
+          "Parroquia": "FACUNDO VELA",
+          "cod_parr": 20151
+        },
+        {
+          "Parroquia": "JULIO E. MORENO (CATAHUAN GRANDE)",
+          "cod_parr": 20153
+        },
+        {
+          "Parroquia": "SALINAS",
+          "cod_parr": 20155
+        },
+        {
+          "Parroquia": "SAN LORENZO",
+          "cod_parr": 20156
+        },
+        {
+          "Parroquia": "SAN SIMON (YACOTO)",
+          "cod_parr": 20157
+        },
+        {
+          "Parroquia": "SANTAFE (SANTA FE)",
+          "cod_parr": 20158
+        },
+        {
+          "Parroquia": "SIMIATUG",
+          "cod_parr": 20159
+        },
+        {
+          "Parroquia": "SAN LUIS DE PAMBIL",
+          "cod_parr": 20160
+        }
+      ]
+    },
+    {
+      "Canton": "LAS NAVES",
+      "cod_cant": 207,
+      "Parroquias": [
+        {
+          "Parroquia": "LAS MERCEDES",
+          "cod_parr": 20701
+        },
+        {
+          "Parroquia": "LAS NAVES",
+          "cod_parr": 20702
+        },
+        {
+          "Parroquia": "LAS NAVES",
+          "cod_parr": 20750
+        }
+      ]
+    },
+    {
+      "Canton": "SAN MIGUEL",
+      "cod_cant": 205,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN MIGUEL",
+          "cod_parr": 20550
+        },
+        {
+          "Parroquia": "BALSAPAMBA",
+          "cod_parr": 20551
+        },
+        {
+          "Parroquia": "BILOVAN",
+          "cod_parr": 20552
+        },
+        {
+          "Parroquia": "REGULO DE MORA",
+          "cod_parr": 20553
+        },
+        {
+          "Parroquia": "SAN PABLO (SAN PABLO DE ATENAS)",
+          "cod_parr": 20554
+        },
+        {
+          "Parroquia": "SANTIAGO",
+          "cod_parr": 20555
+        },
+        {
+          "Parroquia": "SAN VICENTE",
+          "cod_parr": 20556
+        }
+      ]
+    },
+    {
+      "Canton": "CALUMA",
+      "cod_cant": 206,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHILLANES",
+      "cod_cant": 202,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHIMBO",
+      "cod_cant": 203,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ECHANDIA",
+      "cod_cant": 204,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUARANDA",
+      "cod_cant": 201,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LAS NAVES",
+      "cod_cant": 207,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN MIGUEL",
+      "cod_cant": 205,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2164f158c6ba82dbb92"
+  },
+  "Provincia": "CAÑAR",
+  "cod_prov": 3,
+  "Cantones": [
+    {
+      "Canton": "AZOGES",
+      "cod_cant": 301,
+      "Parroquias": [
+        {
+          "Parroquia": "AURELIO BAYAS MARTINEZ",
+          "cod_parr": 30101
+        },
+        {
+          "Parroquia": "AZOGUES",
+          "cod_parr": 30102
+        },
+        {
+          "Parroquia": "BORRERO",
+          "cod_parr": 30103
+        },
+        {
+          "Parroquia": "SAN FRANCISCO",
+          "cod_parr": 30104
+        },
+        {
+          "Parroquia": "AZOGUES",
+          "cod_parr": 30150
+        },
+        {
+          "Parroquia": "COJITAMBO",
+          "cod_parr": 30151
+        },
+        {
+          "Parroquia": "GUAPAN",
+          "cod_parr": 30153
+        },
+        {
+          "Parroquia": "JAVIER LOYOLA (CHUQUIPATA)",
+          "cod_parr": 30154
+        },
+        {
+          "Parroquia": "LUIS CORDERO",
+          "cod_parr": 30155
+        },
+        {
+          "Parroquia": "PINDILIG",
+          "cod_parr": 30156
+        },
+        {
+          "Parroquia": "RIVERA",
+          "cod_parr": 30157
+        },
+        {
+          "Parroquia": "SAN MIGUEL",
+          "cod_parr": 30158
+        },
+        {
+          "Parroquia": "TADAY",
+          "cod_parr": 30160
+        }
+      ]
+    },
+    {
+      "Canton": "BIBLIAN",
+      "cod_cant": 302,
+      "Parroquias": [
+        {
+          "Parroquia": "BIBLIAN",
+          "cod_parr": 30250
+        },
+        {
+          "Parroquia": "NAZON",
+          "cod_parr": 30251
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE SAGEO",
+          "cod_parr": 30252
+        },
+        {
+          "Parroquia": "TURUPAMBA",
+          "cod_parr": 30253
+        },
+        {
+          "Parroquia": "JERUSALEN",
+          "cod_parr": 30254
+        }
+      ]
+    },
+    {
+      "Canton": "CAÑAR",
+      "cod_cant": 303,
+      "Parroquias": [
+        {
+          "Parroquia": "CAÑAR",
+          "cod_parr": 30350
+        },
+        {
+          "Parroquia": "CHONTAMARCA",
+          "cod_parr": 30351
+        },
+        {
+          "Parroquia": "CHOROCOPTE",
+          "cod_parr": 30352
+        },
+        {
+          "Parroquia": "GENERAL MORALES (SOCARTE)",
+          "cod_parr": 30353
+        },
+        {
+          "Parroquia": "GUALLETURO",
+          "cod_parr": 30354
+        },
+        {
+          "Parroquia": "HONORATO VASQUEZ (TAMBO VIEJO)",
+          "cod_parr": 30355
+        },
+        {
+          "Parroquia": "INGAPIRCA",
+          "cod_parr": 30356
+        },
+        {
+          "Parroquia": "JUNCAL",
+          "cod_parr": 30357
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 30358
+        },
+        {
+          "Parroquia": "ZHUD",
+          "cod_parr": 30361
+        },
+        {
+          "Parroquia": "VENTURA",
+          "cod_parr": 30362
+        },
+        {
+          "Parroquia": "DUCUR",
+          "cod_parr": 30363
+        }
+      ]
+    },
+    {
+      "Canton": "DELEG",
+      "cod_cant": 306,
+      "Parroquias": [
+        {
+          "Parroquia": "DELEG",
+          "cod_parr": 30650
+        },
+        {
+          "Parroquia": "SOLANO",
+          "cod_parr": 30651
+        }
+      ]
+    },
+    {
+      "Canton": "EL TAMBO",
+      "cod_cant": 305,
+      "Parroquias": [
+        {
+          "Parroquia": "EL TAMBO",
+          "cod_parr": 30550
+        }
+      ]
+    },
+    {
+      "Canton": "LA TRONCAL",
+      "cod_cant": 304,
+      "Parroquias": [
+        {
+          "Parroquia": "LA TRONCAL",
+          "cod_parr": 30450
+        },
+        {
+          "Parroquia": "MANUEL J. CALLE",
+          "cod_parr": 30451
+        },
+        {
+          "Parroquia": "PANCHO NEGRO",
+          "cod_parr": 30452
+        }
+      ]
+    },
+    {
+      "Canton": "SUSCAL",
+      "cod_cant": 307,
+      "Parroquias": [
+        {
+          "Parroquia": "SUSCAL",
+          "cod_parr": 30750
+        }
+      ]
+    },
+    {
+      "Canton": "AZOGES",
+      "cod_cant": 301,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BIBLIAN",
+      "cod_cant": 302,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CAÑAR",
+      "cod_cant": 303,
+      "Parroquias": []
+    },
+    {
+      "Canton": "DELEG",
+      "cod_cant": 306,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL TAMBO",
+      "cod_cant": 305,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LA TRONCAL",
+      "cod_cant": 304,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SUSCAL",
+      "cod_cant": 307,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2164f158c6ba82dbb93"
+  },
+  "Provincia": "CARCHI",
+  "cod_prov": 4,
+  "Cantones": [
+    {
+      "Canton": "BOLÍVAR",
+      "cod_cant": 402,
+      "Parroquias": [
+        {
+          "Parroquia": "BOLIVAR",
+          "cod_parr": 40250
+        },
+        {
+          "Parroquia": "GARCIA MORENO",
+          "cod_parr": 40251
+        },
+        {
+          "Parroquia": "LOS ANDES",
+          "cod_parr": 40252
+        },
+        {
+          "Parroquia": "MONTE OLIVO",
+          "cod_parr": 40253
+        },
+        {
+          "Parroquia": "SAN VICENTE DE PUSIR",
+          "cod_parr": 40254
+        },
+        {
+          "Parroquia": "SAN RAFAEL",
+          "cod_parr": 40255
+        }
+      ]
+    },
+    {
+      "Canton": "ESPEJO",
+      "cod_cant": 403,
+      "Parroquias": [
+        {
+          "Parroquia": "EL ANGEL",
+          "cod_parr": 40301
+        },
+        {
+          "Parroquia": "27 DE SEPTIEMBRE",
+          "cod_parr": 40302
+        },
+        {
+          "Parroquia": "EL ANGEL",
+          "cod_parr": 40350
+        },
+        {
+          "Parroquia": "EL GOALTAL",
+          "cod_parr": 40351
+        },
+        {
+          "Parroquia": "LA LIBERTAD (ALIZO)",
+          "cod_parr": 40352
+        },
+        {
+          "Parroquia": "SAN ISIDRO",
+          "cod_parr": 40353
+        }
+      ]
+    },
+    {
+      "Canton": "MIRA",
+      "cod_cant": 404,
+      "Parroquias": [
+        {
+          "Parroquia": "MIRA (CHONTAHUASI)",
+          "cod_parr": 40450
+        },
+        {
+          "Parroquia": "CONCEPCION",
+          "cod_parr": 40451
+        },
+        {
+          "Parroquia": "JIJON Y CAAMAÑO",
+          "cod_parr": 40452
+        },
+        {
+          "Parroquia": "JUAN MONTALVO",
+          "cod_parr": 40453
+        }
+      ]
+    },
+    {
+      "Canton": "MONTÚFAR",
+      "cod_cant": 405,
+      "Parroquias": [
+        {
+          "Parroquia": "GONZALEZ SUAREZ",
+          "cod_parr": 40501
+        },
+        {
+          "Parroquia": "SAN JOSE",
+          "cod_parr": 40502
+        },
+        {
+          "Parroquia": "SAN GABRIEL",
+          "cod_parr": 40550
+        },
+        {
+          "Parroquia": "CRISTOBAL COLON",
+          "cod_parr": 40551
+        },
+        {
+          "Parroquia": "CHITAN DE NAVARRETE",
+          "cod_parr": 40552
+        },
+        {
+          "Parroquia": "FERNANDEZ SALVADOR",
+          "cod_parr": 40553
+        },
+        {
+          "Parroquia": "LA PAZ",
+          "cod_parr": 40554
+        },
+        {
+          "Parroquia": "PIARTAL",
+          "cod_parr": 40555
+        }
+      ]
+    },
+    {
+      "Canton": "SAN PEDRO DE HUACA",
+      "cod_cant": 406,
+      "Parroquias": [
+        {
+          "Parroquia": "HUACA",
+          "cod_parr": 40650
+        },
+        {
+          "Parroquia": "MARISCAL SUCRE",
+          "cod_parr": 40651
+        }
+      ]
+    },
+    {
+      "Canton": "TULCÁN",
+      "cod_cant": 401,
+      "Parroquias": [
+        {
+          "Parroquia": "GONZALES SUAREZ",
+          "cod_parr": 40101
+        },
+        {
+          "Parroquia": "TULCAN",
+          "cod_parr": 40102
+        },
+        {
+          "Parroquia": "TULCAN",
+          "cod_parr": 40150
+        },
+        {
+          "Parroquia": "EL CARMELO (EL PUN)",
+          "cod_parr": 40151
+        },
+        {
+          "Parroquia": "JULIO ANDRADE (OREJUELA)",
+          "cod_parr": 40153
+        },
+        {
+          "Parroquia": "MALDONADO",
+          "cod_parr": 40154
+        },
+        {
+          "Parroquia": "PIOTER",
+          "cod_parr": 40155
+        },
+        {
+          "Parroquia": "TOBAR DONOSO (LA BOCANA DE CAMUMBI)",
+          "cod_parr": 40156
+        },
+        {
+          "Parroquia": "TUFIÑO",
+          "cod_parr": 40157
+        },
+        {
+          "Parroquia": "URBINA (TAYA)",
+          "cod_parr": 40158
+        },
+        {
+          "Parroquia": "EL CHICAL",
+          "cod_parr": 40159
+        },
+        {
+          "Parroquia": "SANTA MARTHA DE CUBA",
+          "cod_parr": 40161
+        }
+      ]
+    },
+    {
+      "Canton": "BOLÍVAR",
+      "cod_cant": 402,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ESPEJO",
+      "cod_cant": 403,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MIRA",
+      "cod_cant": 404,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MONTÚFAR",
+      "cod_cant": 405,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN PEDRO DE HUACA",
+      "cod_cant": 406,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TULCÁN",
+      "cod_cant": 401,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2164f158c6ba82dbb94"
+  },
+  "Provincia": "CHIMBORAZO",
+  "cod_prov": 5,
+  "Cantones": [
+    {
+      "Canton": "ALAUSI",
+      "cod_cant": 602,
+      "Parroquias": [
+        {
+          "Parroquia": "ALAUSI",
+          "cod_parr": 60250
+        },
+        {
+          "Parroquia": "ACHUPALLAS",
+          "cod_parr": 60251
+        },
+        {
+          "Parroquia": "GUASUNTOS",
+          "cod_parr": 60253
+        },
+        {
+          "Parroquia": "HUIGRA",
+          "cod_parr": 60254
+        },
+        {
+          "Parroquia": "MULTITUD",
+          "cod_parr": 60255
+        },
+        {
+          "Parroquia": "PISTISHI (NARIZ DEL DIABLO)",
+          "cod_parr": 60256
+        },
+        {
+          "Parroquia": "PUMALLACTA (PUMA-LACTA)",
+          "cod_parr": 60257
+        },
+        {
+          "Parroquia": "SEVILLA",
+          "cod_parr": 60258
+        },
+        {
+          "Parroquia": "SIBAMBE",
+          "cod_parr": 60259
+        },
+        {
+          "Parroquia": "TIXAN",
+          "cod_parr": 60260
+        }
+      ]
+    },
+    {
+      "Canton": "CHAMBO",
+      "cod_cant": 604,
+      "Parroquias": [
+        {
+          "Parroquia": "CHAMBO",
+          "cod_parr": 60450
+        }
+      ]
+    },
+    {
+      "Canton": "CHUNCHI",
+      "cod_cant": 605,
+      "Parroquias": [
+        {
+          "Parroquia": "CHUNCHI",
+          "cod_parr": 60550
+        },
+        {
+          "Parroquia": "CAPZOL",
+          "cod_parr": 60551
+        },
+        {
+          "Parroquia": "COMPUD",
+          "cod_parr": 60552
+        },
+        {
+          "Parroquia": "GONZOL",
+          "cod_parr": 60553
+        },
+        {
+          "Parroquia": "LLAGOS",
+          "cod_parr": 60554
+        }
+      ]
+    },
+    {
+      "Canton": "COLTA",
+      "cod_cant": 603,
+      "Parroquias": [
+        {
+          "Parroquia": "CAJABAMBA",
+          "cod_parr": 60301
+        },
+        {
+          "Parroquia": "SICALPA",
+          "cod_parr": 60302
+        },
+        {
+          "Parroquia": "VILLA LA UNION (CAJABAMBA)",
+          "cod_parr": 60350
+        },
+        {
+          "Parroquia": "CAÑI",
+          "cod_parr": 60351
+        },
+        {
+          "Parroquia": "COLUMBE",
+          "cod_parr": 60352
+        },
+        {
+          "Parroquia": "JUAN DE VELASCO (PANGOR)",
+          "cod_parr": 60353
+        },
+        {
+          "Parroquia": "SANTIAGO DE QUITO",
+          "cod_parr": 60354
+        }
+      ]
+    },
+    {
+      "Canton": "CUMANDA",
+      "cod_cant": 610,
+      "Parroquias": [
+        {
+          "Parroquia": "CUMANDA",
+          "cod_parr": 61050
+        }
+      ]
+    },
+    {
+      "Canton": "GUAMOTE",
+      "cod_cant": 606,
+      "Parroquias": [
+        {
+          "Parroquia": "GUAMOTE",
+          "cod_parr": 60650
+        },
+        {
+          "Parroquia": "CEBADAS",
+          "cod_parr": 60651
+        },
+        {
+          "Parroquia": "PALMIRA",
+          "cod_parr": 60652
+        }
+      ]
+    },
+    {
+      "Canton": "GUANO",
+      "cod_cant": 607,
+      "Parroquias": [
+        {
+          "Parroquia": "EL ROSARIO",
+          "cod_parr": 60701
+        },
+        {
+          "Parroquia": "LA MATRIZ",
+          "cod_parr": 60702
+        },
+        {
+          "Parroquia": "GUANO",
+          "cod_parr": 60750
+        },
+        {
+          "Parroquia": "GUANANDO",
+          "cod_parr": 60751
+        },
+        {
+          "Parroquia": "ILAPO",
+          "cod_parr": 60752
+        },
+        {
+          "Parroquia": "LA PROVIDENCIA",
+          "cod_parr": 60753
+        },
+        {
+          "Parroquia": "SAN ANDRES",
+          "cod_parr": 60754
+        },
+        {
+          "Parroquia": "SAN GERARDO DE PACAICAGUAN",
+          "cod_parr": 60755
+        },
+        {
+          "Parroquia": "SAN ISIDRO DE PATULU",
+          "cod_parr": 60756
+        },
+        {
+          "Parroquia": "SAN JOSE DEL CHAZO",
+          "cod_parr": 60757
+        },
+        {
+          "Parroquia": "SANTA FE DE GALAN",
+          "cod_parr": 60758
+        },
+        {
+          "Parroquia": "VALPARAISO",
+          "cod_parr": 60759
+        }
+      ]
+    },
+    {
+      "Canton": "PALLATANGA",
+      "cod_cant": 608,
+      "Parroquias": [
+        {
+          "Parroquia": "PALLATANGA",
+          "cod_parr": 60850
+        }
+      ]
+    },
+    {
+      "Canton": "PENIPE",
+      "cod_cant": 609,
+      "Parroquias": [
+        {
+          "Parroquia": "PENIPE",
+          "cod_parr": 60950
+        },
+        {
+          "Parroquia": "EL ALTAR",
+          "cod_parr": 60951
+        },
+        {
+          "Parroquia": "MATUS",
+          "cod_parr": 60952
+        },
+        {
+          "Parroquia": "PUELA",
+          "cod_parr": 60953
+        },
+        {
+          "Parroquia": "SAN ANTONIO DE BAYUSHIG",
+          "cod_parr": 60954
+        },
+        {
+          "Parroquia": "LA CANDELARIA",
+          "cod_parr": 60955
+        },
+        {
+          "Parroquia": "BILBAO",
+          "cod_parr": 60956
+        }
+      ]
+    },
+    {
+      "Canton": "RIOBAMBA",
+      "cod_cant": 601,
+      "Parroquias": [
+        {
+          "Parroquia": "LIZARZABURU",
+          "cod_parr": 60101
+        },
+        {
+          "Parroquia": "MALDONADO",
+          "cod_parr": 60102
+        },
+        {
+          "Parroquia": "VELASCO",
+          "cod_parr": 60103
+        },
+        {
+          "Parroquia": "VELOZ",
+          "cod_parr": 60104
+        },
+        {
+          "Parroquia": "YARUQUIES",
+          "cod_parr": 60105
+        },
+        {
+          "Parroquia": "LICAN",
+          "cod_parr": 60106
+        },
+        {
+          "Parroquia": "RIOBAMBA",
+          "cod_parr": 60150
+        },
+        {
+          "Parroquia": "CACHA",
+          "cod_parr": 60151
+        },
+        {
+          "Parroquia": "CALPI",
+          "cod_parr": 60152
+        },
+        {
+          "Parroquia": "CUBIJIES",
+          "cod_parr": 60153
+        },
+        {
+          "Parroquia": "FLORES",
+          "cod_parr": 60154
+        },
+        {
+          "Parroquia": "LICTO",
+          "cod_parr": 60156
+        },
+        {
+          "Parroquia": "PUNGALA",
+          "cod_parr": 60157
+        },
+        {
+          "Parroquia": "PUNIN",
+          "cod_parr": 60158
+        },
+        {
+          "Parroquia": "QUIMIAG",
+          "cod_parr": 60159
+        },
+        {
+          "Parroquia": "SAN JUAN",
+          "cod_parr": 60160
+        },
+        {
+          "Parroquia": "SAN LUIS",
+          "cod_parr": 60161
+        }
+      ]
+    },
+    {
+      "Canton": "ALAUSI",
+      "cod_cant": 602,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHAMBO",
+      "cod_cant": 604,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHUNCHI",
+      "cod_cant": 605,
+      "Parroquias": []
+    },
+    {
+      "Canton": "COLTA",
+      "cod_cant": 603,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CUMANDA",
+      "cod_cant": 610,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUAMOTE",
+      "cod_cant": 606,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUANO",
+      "cod_cant": 607,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALLATANGA",
+      "cod_cant": 608,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PENIPE",
+      "cod_cant": 609,
+      "Parroquias": []
+    },
+    {
+      "Canton": "RIOBAMBA",
+      "cod_cant": 601,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2174f158c6ba82dbb95"
+  },
+  "Provincia": "COTOPAXI",
+  "cod_prov": 6,
+  "Cantones": [
+    {
+      "Canton": "LA MANA",
+      "cod_cant": 502,
+      "Parroquias": [
+        {
+          "Parroquia": "EL CARMEN",
+          "cod_parr": 50202
+        },
+        {
+          "Parroquia": "LA MANA",
+          "cod_parr": 50250
+        },
+        {
+          "Parroquia": "GUASAGANDA",
+          "cod_parr": 50251
+        },
+        {
+          "Parroquia": "PUCAYACU",
+          "cod_parr": 50252
+        }
+      ]
+    },
+    {
+      "Canton": "LATACUNGA",
+      "cod_cant": 501,
+      "Parroquias": [
+        {
+          "Parroquia": "ELOY ALFARO (SAN FELIPE)",
+          "cod_parr": 50101
+        },
+        {
+          "Parroquia": "IGNACIO FLORES (PARQUE FLORES)",
+          "cod_parr": 50102
+        },
+        {
+          "Parroquia": "JUAN MONTALVO (SAN SEBASTIAN)",
+          "cod_parr": 50103
+        },
+        {
+          "Parroquia": "LA MATRIZ",
+          "cod_parr": 50104
+        },
+        {
+          "Parroquia": "SAN BUENAVENTURA",
+          "cod_parr": 50105
+        },
+        {
+          "Parroquia": "LATACUNGA",
+          "cod_parr": 50150
+        },
+        {
+          "Parroquia": "ALAQUES (ALAQUEZ)",
+          "cod_parr": 50151
+        },
+        {
+          "Parroquia": "BELISARIO QUEVEDO (GUANAILIN)",
+          "cod_parr": 50152
+        },
+        {
+          "Parroquia": "GUAITACAMA (GUAYTACAMA)",
+          "cod_parr": 50153
+        },
+        {
+          "Parroquia": "JOSEGUANGO BAJO",
+          "cod_parr": 50154
+        },
+        {
+          "Parroquia": "MULALO",
+          "cod_parr": 50156
+        },
+        {
+          "Parroquia": "11 DE NOVIEMBRE (ILINCHISI)",
+          "cod_parr": 50157
+        },
+        {
+          "Parroquia": "POALO",
+          "cod_parr": 50158
+        },
+        {
+          "Parroquia": "SAN JUAN DE PASTOCALLE",
+          "cod_parr": 50159
+        },
+        {
+          "Parroquia": "TANICUCHI",
+          "cod_parr": 50161
+        },
+        {
+          "Parroquia": "TOACASO",
+          "cod_parr": 50162
+        }
+      ]
+    },
+    {
+      "Canton": "PANGUA",
+      "cod_cant": 503,
+      "Parroquias": [
+        {
+          "Parroquia": "EL CORAZON",
+          "cod_parr": 50350
+        },
+        {
+          "Parroquia": "MORASPUNGO",
+          "cod_parr": 50351
+        },
+        {
+          "Parroquia": "PINLLOPATA",
+          "cod_parr": 50352
+        },
+        {
+          "Parroquia": "RAMON CAMPAÑA",
+          "cod_parr": 50353
+        }
+      ]
+    },
+    {
+      "Canton": "PUJILI",
+      "cod_cant": 504,
+      "Parroquias": [
+        {
+          "Parroquia": "PUJILI",
+          "cod_parr": 50450
+        },
+        {
+          "Parroquia": "ANGAMARCA",
+          "cod_parr": 50451
+        },
+        {
+          "Parroquia": "GUANGAJE",
+          "cod_parr": 50453
+        },
+        {
+          "Parroquia": "LA VICTORIA",
+          "cod_parr": 50455
+        },
+        {
+          "Parroquia": "PILALO",
+          "cod_parr": 50456
+        },
+        {
+          "Parroquia": "TINGO",
+          "cod_parr": 50457
+        },
+        {
+          "Parroquia": "ZUMBAHUA",
+          "cod_parr": 50458
+        }
+      ]
+    },
+    {
+      "Canton": "SALCEDO",
+      "cod_cant": 505,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN MIGUEL",
+          "cod_parr": 50550
+        },
+        {
+          "Parroquia": "ANTONIO JOSE HOLGUIN (SANTA LUCIA)",
+          "cod_parr": 50551
+        },
+        {
+          "Parroquia": "CUSUBAMBA",
+          "cod_parr": 50552
+        },
+        {
+          "Parroquia": "MULALILLO",
+          "cod_parr": 50553
+        },
+        {
+          "Parroquia": "MULLIQUINDIL (SANTA ANA)",
+          "cod_parr": 50554
+        },
+        {
+          "Parroquia": "PANSALEO",
+          "cod_parr": 50555
+        }
+      ]
+    },
+    {
+      "Canton": "SAQUISILI",
+      "cod_cant": 506,
+      "Parroquias": [
+        {
+          "Parroquia": "SAQUISILI",
+          "cod_parr": 50650
+        },
+        {
+          "Parroquia": "CANCHAGUA",
+          "cod_parr": 50651
+        },
+        {
+          "Parroquia": "CHANTILIN",
+          "cod_parr": 50652
+        },
+        {
+          "Parroquia": "COCHAPAMBA",
+          "cod_parr": 50653
+        }
+      ]
+    },
+    {
+      "Canton": "SIGCHOS",
+      "cod_cant": 507,
+      "Parroquias": [
+        {
+          "Parroquia": "SIGCHOS",
+          "cod_parr": 50750
+        },
+        {
+          "Parroquia": "CHUGCHILAN",
+          "cod_parr": 50751
+        },
+        {
+          "Parroquia": "ISINLIVI",
+          "cod_parr": 50752
+        },
+        {
+          "Parroquia": "LAS PAMPAS",
+          "cod_parr": 50753
+        },
+        {
+          "Parroquia": "PALO QUEMADO",
+          "cod_parr": 50754
+        }
+      ]
+    },
+    {
+      "Canton": "LA MANA",
+      "cod_cant": 502,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LATACUNGA",
+      "cod_cant": 501,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PANGUA",
+      "cod_cant": 503,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUJILI",
+      "cod_cant": 504,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SALCEDO",
+      "cod_cant": 505,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAQUISILI",
+      "cod_cant": 506,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SIGCHOS",
+      "cod_cant": 507,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2174f158c6ba82dbb96"
+  },
+  "Provincia": "EL ORO",
+  "cod_prov": 7,
+  "Cantones": [
+    {
+      "Canton": "ARENILLAS",
+      "cod_cant": 702,
+      "Parroquias": [
+        {
+          "Parroquia": "CHACRAS",
+          "cod_parr": 70221
+        },
+        {
+          "Parroquia": "ARENILLAS",
+          "cod_parr": 70250
+        },
+        {
+          "Parroquia": "PALMALES",
+          "cod_parr": 70254
+        },
+        {
+          "Parroquia": "CARCABON",
+          "cod_parr": 70255
+        }
+      ]
+    },
+    {
+      "Canton": "ATAHUALPA",
+      "cod_cant": 703,
+      "Parroquias": [
+        {
+          "Parroquia": "PACCHA",
+          "cod_parr": 70350
+        },
+        {
+          "Parroquia": "AYAPAMBA",
+          "cod_parr": 70351
+        },
+        {
+          "Parroquia": "CORDONCILLO",
+          "cod_parr": 70352
+        },
+        {
+          "Parroquia": "MILAGRO",
+          "cod_parr": 70353
+        },
+        {
+          "Parroquia": "SAN JOSE",
+          "cod_parr": 70354
+        },
+        {
+          "Parroquia": "SAN JUAN DE CERRO AZUL",
+          "cod_parr": 70355
+        }
+      ]
+    },
+    {
+      "Canton": "BALSAS",
+      "cod_cant": 704,
+      "Parroquias": [
+        {
+          "Parroquia": "BALSAS",
+          "cod_parr": 70450
+        },
+        {
+          "Parroquia": "BELLAMARIA",
+          "cod_parr": 70451
+        }
+      ]
+    },
+    {
+      "Canton": "CHILLA",
+      "cod_cant": 705,
+      "Parroquias": [
+        {
+          "Parroquia": "CHILLA",
+          "cod_parr": 70550
+        }
+      ]
+    },
+    {
+      "Canton": "EL GUABO",
+      "cod_cant": 706,
+      "Parroquias": [
+        {
+          "Parroquia": "EL GUABO",
+          "cod_parr": 70650
+        },
+        {
+          "Parroquia": "BARBONES (SUCRE)",
+          "cod_parr": 70651
+        },
+        {
+          "Parroquia": "LA IBERIA",
+          "cod_parr": 70652
+        },
+        {
+          "Parroquia": "TENDALES (CAB. EN PUERTO)",
+          "cod_parr": 70653
+        },
+        {
+          "Parroquia": "RIO BONITO",
+          "cod_parr": 70654
+        }
+      ]
+    },
+    {
+      "Canton": "HUAQUILLAS",
+      "cod_cant": 707,
+      "Parroquias": [
+        {
+          "Parroquia": "ECUADOR",
+          "cod_parr": 70701
+        },
+        {
+          "Parroquia": "EL PARAISO",
+          "cod_parr": 70702
+        },
+        {
+          "Parroquia": "HUALTACO",
+          "cod_parr": 70703
+        },
+        {
+          "Parroquia": "MILTON REYES",
+          "cod_parr": 70704
+        },
+        {
+          "Parroquia": "UNION LOJANA",
+          "cod_parr": 70705
+        },
+        {
+          "Parroquia": "HUAQUILLAS",
+          "cod_parr": 70750
+        }
+      ]
+    },
+    {
+      "Canton": "LAS LAJAS",
+      "cod_cant": 714,
+      "Parroquias": [
+        {
+          "Parroquia": "LA VICTORIA",
+          "cod_parr": 71401
+        },
+        {
+          "Parroquia": "PLATANILLOS",
+          "cod_parr": 71402
+        },
+        {
+          "Parroquia": "VALLE HERMOSO",
+          "cod_parr": 71403
+        },
+        {
+          "Parroquia": "LA VICTORIA",
+          "cod_parr": 71450
+        },
+        {
+          "Parroquia": "LA LIBERTAD",
+          "cod_parr": 71451
+        },
+        {
+          "Parroquia": "EL PARAISO",
+          "cod_parr": 71452
+        },
+        {
+          "Parroquia": "SAN ISIDRO",
+          "cod_parr": 71453
+        }
+      ]
+    },
+    {
+      "Canton": "MACHALA",
+      "cod_cant": 701,
+      "Parroquias": [
+        {
+          "Parroquia": "LA PROVIDENCIA",
+          "cod_parr": 70101
+        },
+        {
+          "Parroquia": "MACHALA",
+          "cod_parr": 70102
+        },
+        {
+          "Parroquia": "PUERTO BOLIVAR",
+          "cod_parr": 70103
+        },
+        {
+          "Parroquia": "NUEVE DE MAYO",
+          "cod_parr": 70104
+        },
+        {
+          "Parroquia": "EL CAMBIO",
+          "cod_parr": 70105
+        },
+        {
+          "Parroquia": "MACHALA",
+          "cod_parr": 70150
+        },
+        {
+          "Parroquia": "EL RETIRO",
+          "cod_parr": 70152
+        }
+      ]
+    },
+    {
+      "Canton": "MARCABELI",
+      "cod_cant": 708,
+      "Parroquias": [
+        {
+          "Parroquia": "MARCABELI",
+          "cod_parr": 70850
+        },
+        {
+          "Parroquia": "EL INGENIO",
+          "cod_parr": 70851
+        }
+      ]
+    },
+    {
+      "Canton": "PASAJE",
+      "cod_cant": 709,
+      "Parroquias": [
+        {
+          "Parroquia": "BOLIVAR",
+          "cod_parr": 70901
+        },
+        {
+          "Parroquia": "LOMA DE FRANCO",
+          "cod_parr": 70902
+        },
+        {
+          "Parroquia": "OCHOA LEON (MATRIZ)",
+          "cod_parr": 70903
+        },
+        {
+          "Parroquia": "TRES CERRITOS",
+          "cod_parr": 70904
+        },
+        {
+          "Parroquia": "PASAJE",
+          "cod_parr": 70950
+        },
+        {
+          "Parroquia": "BUENAVISTA",
+          "cod_parr": 70951
+        },
+        {
+          "Parroquia": "CASACAY",
+          "cod_parr": 70952
+        },
+        {
+          "Parroquia": "LA PEAÑA",
+          "cod_parr": 70953
+        },
+        {
+          "Parroquia": "PROGRESO",
+          "cod_parr": 70954
+        },
+        {
+          "Parroquia": "UZHCURRUMI",
+          "cod_parr": 70955
+        },
+        {
+          "Parroquia": "CAÑAQUEMADA",
+          "cod_parr": 70956
+        }
+      ]
+    },
+    {
+      "Canton": "PIÑAS",
+      "cod_cant": 710,
+      "Parroquias": [
+        {
+          "Parroquia": "LA MATRIZ",
+          "cod_parr": 71001
+        },
+        {
+          "Parroquia": "LA SUSAYA",
+          "cod_parr": 71002
+        },
+        {
+          "Parroquia": "PIÑAS GRANDE",
+          "cod_parr": 71003
+        },
+        {
+          "Parroquia": "PIÑAS",
+          "cod_parr": 71050
+        },
+        {
+          "Parroquia": "CAPIRO",
+          "cod_parr": 71051
+        },
+        {
+          "Parroquia": "LA BOCANA",
+          "cod_parr": 71052
+        },
+        {
+          "Parroquia": "MOROMORO (CAB. EN EL VADO)",
+          "cod_parr": 71053
+        },
+        {
+          "Parroquia": "PIEDRAS",
+          "cod_parr": 71054
+        },
+        {
+          "Parroquia": "SAN ROQUE (AMBROSIO MALDONADO)",
+          "cod_parr": 71055
+        },
+        {
+          "Parroquia": "SARACAY",
+          "cod_parr": 71056
+        }
+      ]
+    },
+    {
+      "Canton": "PORTOVELO",
+      "cod_cant": 711,
+      "Parroquias": [
+        {
+          "Parroquia": "PORTOVELO",
+          "cod_parr": 71150
+        },
+        {
+          "Parroquia": "CURTINCAPA",
+          "cod_parr": 71151
+        },
+        {
+          "Parroquia": "MORALES",
+          "cod_parr": 71152
+        },
+        {
+          "Parroquia": "SALATI",
+          "cod_parr": 71153
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA ANA",
+      "cod_cant": 1313,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTA ANA",
+          "cod_parr": 131301
+        },
+        {
+          "Parroquia": "LODANA",
+          "cod_parr": 131302
+        },
+        {
+          "Parroquia": "SANTA ANA DE VUELTA LARGA",
+          "cod_parr": 131350
+        },
+        {
+          "Parroquia": "AYACUCHO",
+          "cod_parr": 131351
+        },
+        {
+          "Parroquia": "HONORATO VASQUEZ",
+          "cod_parr": 131352
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 131353
+        },
+        {
+          "Parroquia": "SAN PABLO",
+          "cod_parr": 131355
+        }
+      ]
+    },
+    {
+      "Canton": "ZARUMA",
+      "cod_cant": 713,
+      "Parroquias": [
+        {
+          "Parroquia": "ZARUMA",
+          "cod_parr": 71350
+        },
+        {
+          "Parroquia": "ABAÑIN",
+          "cod_parr": 71351
+        },
+        {
+          "Parroquia": "ARCAPAMBA",
+          "cod_parr": 71352
+        },
+        {
+          "Parroquia": "GUANAZAN",
+          "cod_parr": 71353
+        },
+        {
+          "Parroquia": "GUIZHAGUIÑA",
+          "cod_parr": 71354
+        },
+        {
+          "Parroquia": "HUERTAS",
+          "cod_parr": 71355
+        },
+        {
+          "Parroquia": "MALVAS",
+          "cod_parr": 71356
+        },
+        {
+          "Parroquia": "MULUNCAY GRANDE",
+          "cod_parr": 71357
+        },
+        {
+          "Parroquia": "SINSAO",
+          "cod_parr": 71358
+        },
+        {
+          "Parroquia": "SALVIAS",
+          "cod_parr": 71359
+        }
+      ]
+    },
+    {
+      "Canton": "ARENILLAS",
+      "cod_cant": 702,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ATAHUALPA",
+      "cod_cant": 703,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BALSAS",
+      "cod_cant": 704,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHILLA",
+      "cod_cant": 705,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL GUABO",
+      "cod_cant": 706,
+      "Parroquias": []
+    },
+    {
+      "Canton": "HUAQUILLAS",
+      "cod_cant": 707,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LAS LAJAS",
+      "cod_cant": 714,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MACHALA",
+      "cod_cant": 701,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MARCABELI",
+      "cod_cant": 708,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PASAJE",
+      "cod_cant": 709,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PIÑAS",
+      "cod_cant": 710,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PORTOVELO",
+      "cod_cant": 711,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA ANA",
+      "cod_cant": 1313,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ZARUMA",
+      "cod_cant": 713,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2174f158c6ba82dbb97"
+  },
+  "Provincia": "ESMERALDAS",
+  "cod_prov": 8,
+  "Cantones": [
+    {
+      "Canton": "ATACAMES",
+      "cod_cant": 806,
+      "Parroquias": [
+        {
+          "Parroquia": "ATACAMES",
+          "cod_parr": 80650
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 80651
+        },
+        {
+          "Parroquia": "SUA",
+          "cod_parr": 80652
+        },
+        {
+          "Parroquia": "TONCHIGUE",
+          "cod_parr": 80653
+        },
+        {
+          "Parroquia": "TONSUPA",
+          "cod_parr": 80654
+        }
+      ]
+    },
+    {
+      "Canton": "ELOY ALFARO",
+      "cod_cant": 802,
+      "Parroquias": [
+        {
+          "Parroquia": "VALDEZ (LIMONES)",
+          "cod_parr": 80250
+        },
+        {
+          "Parroquia": "ANCHAYACU",
+          "cod_parr": 80251
+        },
+        {
+          "Parroquia": "ATAHUALPA",
+          "cod_parr": 80252
+        },
+        {
+          "Parroquia": "BORBON",
+          "cod_parr": 80253
+        },
+        {
+          "Parroquia": "LA TOLA",
+          "cod_parr": 80254
+        },
+        {
+          "Parroquia": "LUIS VARGAS TORRES",
+          "cod_parr": 80255
+        },
+        {
+          "Parroquia": "MALDONADO",
+          "cod_parr": 80256
+        },
+        {
+          "Parroquia": "PAMPANAL DE BOLIVAR",
+          "cod_parr": 80257
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE ONZOLE",
+          "cod_parr": 80258
+        },
+        {
+          "Parroquia": "SANTO DOMINGO DE ONZOLE",
+          "cod_parr": 80259
+        },
+        {
+          "Parroquia": "SELVA ALEGRE",
+          "cod_parr": 80260
+        },
+        {
+          "Parroquia": "TELEMBI",
+          "cod_parr": 80261
+        },
+        {
+          "Parroquia": "COLON ELOY DEL MARIA",
+          "cod_parr": 80262
+        },
+        {
+          "Parroquia": "SAN JOSE DE CAYAPAS",
+          "cod_parr": 80263
+        },
+        {
+          "Parroquia": "TIMBIRE",
+          "cod_parr": 80264
+        }
+      ]
+    },
+    {
+      "Canton": "ESMERALDAS",
+      "cod_cant": 801,
+      "Parroquias": [
+        {
+          "Parroquia": "BARTOLOME RUIZ (CESAR FRANCO CARRION)",
+          "cod_parr": 80101
+        },
+        {
+          "Parroquia": "5 DE AGOSTO",
+          "cod_parr": 80102
+        },
+        {
+          "Parroquia": "ESMERALDAS",
+          "cod_parr": 80103
+        },
+        {
+          "Parroquia": "LUIS TELLO (LAS PALMAS)",
+          "cod_parr": 80104
+        },
+        {
+          "Parroquia": "SIMÓN PLATA TORRES",
+          "cod_parr": 80105
+        },
+        {
+          "Parroquia": "ESMERALDAS",
+          "cod_parr": 80150
+        },
+        {
+          "Parroquia": "CAMARONES",
+          "cod_parr": 80152
+        },
+        {
+          "Parroquia": "CRNEL. CARLOS CONCHA TORRES",
+          "cod_parr": 80153
+        },
+        {
+          "Parroquia": "CHINCA",
+          "cod_parr": 80154
+        },
+        {
+          "Parroquia": "MAJUA",
+          "cod_parr": 80159
+        },
+        {
+          "Parroquia": "SAN MATEO",
+          "cod_parr": 80163
+        },
+        {
+          "Parroquia": "TABIAZO",
+          "cod_parr": 80165
+        },
+        {
+          "Parroquia": "TACHINA",
+          "cod_parr": 80166
+        },
+        {
+          "Parroquia": "VUELTA LARGA",
+          "cod_parr": 80168
+        }
+      ]
+    },
+    {
+      "Canton": "LA CONCORDIA",
+      "cod_cant": 808,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MUISNE",
+      "cod_cant": 803,
+      "Parroquias": [
+        {
+          "Parroquia": "MUISNE",
+          "cod_parr": 80350
+        },
+        {
+          "Parroquia": "BOLIVAR",
+          "cod_parr": 80351
+        },
+        {
+          "Parroquia": "DAULE",
+          "cod_parr": 80352
+        },
+        {
+          "Parroquia": "GALERA",
+          "cod_parr": 80353
+        },
+        {
+          "Parroquia": "QUINGUE (OLMEDO PERDOMO FRANCO)",
+          "cod_parr": 80354
+        },
+        {
+          "Parroquia": "SALIMA",
+          "cod_parr": 80355
+        },
+        {
+          "Parroquia": "SAN FRANCISCO",
+          "cod_parr": 80356
+        },
+        {
+          "Parroquia": "SAN GREGORIO",
+          "cod_parr": 80357
+        },
+        {
+          "Parroquia": "SAN JOSE DE CHAMANGA",
+          "cod_parr": 80358
+        }
+      ]
+    },
+    {
+      "Canton": "QUININDE",
+      "cod_cant": 804,
+      "Parroquias": [
+        {
+          "Parroquia": "ROSA ZARATE (QUININDE)",
+          "cod_parr": 80450
+        },
+        {
+          "Parroquia": "CUBE",
+          "cod_parr": 80451
+        },
+        {
+          "Parroquia": "CHURA (CHANCAMA)",
+          "cod_parr": 80452
+        },
+        {
+          "Parroquia": "MALIMPIA",
+          "cod_parr": 80453
+        },
+        {
+          "Parroquia": "VICHE",
+          "cod_parr": 80454
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 80455
+        }
+      ]
+    },
+    {
+      "Canton": "RIOVERDE",
+      "cod_cant": 807,
+      "Parroquias": [
+        {
+          "Parroquia": "RIOVERDE",
+          "cod_parr": 80750
+        },
+        {
+          "Parroquia": "CHONTADURO",
+          "cod_parr": 80751
+        },
+        {
+          "Parroquia": "CHUMUNDE",
+          "cod_parr": 80752
+        },
+        {
+          "Parroquia": "LAGARTO",
+          "cod_parr": 80753
+        },
+        {
+          "Parroquia": "MONTALVO",
+          "cod_parr": 80754
+        },
+        {
+          "Parroquia": "ROCAFUERTE",
+          "cod_parr": 80755
+        }
+      ]
+    },
+    {
+      "Canton": "SAN LORENZO",
+      "cod_cant": 805,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN LORENZO",
+          "cod_parr": 80550
+        },
+        {
+          "Parroquia": "ALTO TAMBO",
+          "cod_parr": 80551
+        },
+        {
+          "Parroquia": "ANCON (PICHANGAL)",
+          "cod_parr": 80552
+        },
+        {
+          "Parroquia": "CALDERON",
+          "cod_parr": 80553
+        },
+        {
+          "Parroquia": "CARONDELET",
+          "cod_parr": 80554
+        },
+        {
+          "Parroquia": "5 DE JUNIO",
+          "cod_parr": 80555
+        },
+        {
+          "Parroquia": "CONCEPCION",
+          "cod_parr": 80556
+        },
+        {
+          "Parroquia": "MATAJE",
+          "cod_parr": 80557
+        },
+        {
+          "Parroquia": "SAN JAVIER DE CACHAVI",
+          "cod_parr": 80558
+        },
+        {
+          "Parroquia": "SANTA RITA",
+          "cod_parr": 80559
+        },
+        {
+          "Parroquia": "TAMBILLO",
+          "cod_parr": 80560
+        },
+        {
+          "Parroquia": "TULUBI",
+          "cod_parr": 80561
+        },
+        {
+          "Parroquia": "URBINA",
+          "cod_parr": 80562
+        }
+      ]
+    },
+    {
+      "Canton": "ATACAMES",
+      "cod_cant": 806,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ELOY ALFARO",
+      "cod_cant": 802,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ESMERALDAS",
+      "cod_cant": 801,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LA CONCORDIA",
+      "cod_cant": 808,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MUISNE",
+      "cod_cant": 803,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUININDE",
+      "cod_cant": 804,
+      "Parroquias": []
+    },
+    {
+      "Canton": "RIOVERDE",
+      "cod_cant": 807,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN LORENZO",
+      "cod_cant": 805,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2184f158c6ba82dbb98"
+  },
+  "Provincia": "GALAPAGOS",
+  "cod_prov": 9,
+  "Cantones": [
+    {
+      "Canton": "ISABELA",
+      "cod_cant": 2002,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO VILLAMIL",
+          "cod_parr": 200250
+        },
+        {
+          "Parroquia": "TOMAS DE BERLANGA (SANTO TOMAS)",
+          "cod_parr": 200251
+        }
+      ]
+    },
+    {
+      "Canton": "SAN CRISTOBAL",
+      "cod_cant": 2001,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO BAQUERIZO MORENO",
+          "cod_parr": 200150
+        },
+        {
+          "Parroquia": "EL PROGRESO",
+          "cod_parr": 200151
+        },
+        {
+          "Parroquia": "ISLA SANTA MARIA (FLOREANA)",
+          "cod_parr": 200152
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA CRUZ",
+      "cod_cant": 2003,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO AYORA",
+          "cod_parr": 200350
+        },
+        {
+          "Parroquia": "BELLAVISTA",
+          "cod_parr": 200351
+        },
+        {
+          "Parroquia": "SANTA ROSA",
+          "cod_parr": 200352
+        }
+      ]
+    },
+    {
+      "Canton": "ISABELA",
+      "cod_cant": 2002,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN CRISTOBAL",
+      "cod_cant": 2001,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA CRUZ",
+      "cod_cant": 2003,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2194f158c6ba82dbb99"
+  },
+  "Provincia": "GUAYAS",
+  "cod_prov": 10,
+  "Cantones": [
+    {
+      "Canton": "ALFREDO BAQUERIZO MORENO",
+      "cod_cant": 902,
+      "Parroquias": [
+        {
+          "Parroquia": "ALFREDO BAQUERIZO MORENO",
+          "cod_parr": 90250
+        }
+      ]
+    },
+    {
+      "Canton": "BALAO",
+      "cod_cant": 903,
+      "Parroquias": [
+        {
+          "Parroquia": "BALAO",
+          "cod_parr": 90350
+        }
+      ]
+    },
+    {
+      "Canton": "BALZAR",
+      "cod_cant": 904,
+      "Parroquias": [
+        {
+          "Parroquia": "BALZAR",
+          "cod_parr": 90450
+        }
+      ]
+    },
+    {
+      "Canton": "COLIMES",
+      "cod_cant": 905,
+      "Parroquias": [
+        {
+          "Parroquia": "COLIMES",
+          "cod_parr": 90550
+        },
+        {
+          "Parroquia": "SAN JACINTO",
+          "cod_parr": 90551
+        }
+      ]
+    },
+    {
+      "Canton": "DAULE",
+      "cod_cant": 906,
+      "Parroquias": [
+        {
+          "Parroquia": "DAULE",
+          "cod_parr": 90601
+        },
+        {
+          "Parroquia": "BANIFE",
+          "cod_parr": 90602
+        },
+        {
+          "Parroquia": "EMILIANO CAICEDO MARCOS",
+          "cod_parr": 90603
+        },
+        {
+          "Parroquia": "MAGRO",
+          "cod_parr": 90604
+        },
+        {
+          "Parroquia": "PADRE JUAN BAUTISTA AGUIRRE",
+          "cod_parr": 90605
+        },
+        {
+          "Parroquia": "SANTA CLARA",
+          "cod_parr": 90606
+        },
+        {
+          "Parroquia": "VICENTE PIEDRAHITA",
+          "cod_parr": 90607
+        },
+        {
+          "Parroquia": "DAULE",
+          "cod_parr": 90650
+        },
+        {
+          "Parroquia": "JUAN BAUTISTA AGUIRRE (LOS TINTOS)",
+          "cod_parr": 90652
+        },
+        {
+          "Parroquia": "LAUREL",
+          "cod_parr": 90653
+        },
+        {
+          "Parroquia": "LIMONAL",
+          "cod_parr": 90654
+        },
+        {
+          "Parroquia": "LAS LOJAS (ENRIQUE BAQUERIZO MORENO)",
+          "cod_parr": 90656
+        }
+      ]
+    },
+    {
+      "Canton": "DURÁN",
+      "cod_cant": 907,
+      "Parroquias": [
+        {
+          "Parroquia": "ELOY ALFARO (DURAN)",
+          "cod_parr": 90750
+        }
+      ]
+    },
+    {
+      "Canton": "EL EMPALME",
+      "cod_cant": 908,
+      "Parroquias": [
+        {
+          "Parroquia": "VELASCO IBARRA (EL EMPALME)",
+          "cod_parr": 90850
+        },
+        {
+          "Parroquia": "GUAYAS (PUEBLO NUEVO)",
+          "cod_parr": 90851
+        },
+        {
+          "Parroquia": "EL ROSARIO",
+          "cod_parr": 90852
+        }
+      ]
+    },
+    {
+      "Canton": "EL TRIUNFO",
+      "cod_cant": 909,
+      "Parroquias": [
+        {
+          "Parroquia": "EL TRIUNFO",
+          "cod_parr": 90950
+        }
+      ]
+    },
+    {
+      "Canton": "GENERAL ANTONIO ELIZALDE",
+      "cod_cant": 927,
+      "Parroquias": [
+        {
+          "Parroquia": "GENERAL ANTONIO ELIZALDE (BUCAY)",
+          "cod_parr": 92750
+        }
+      ]
+    },
+    {
+      "Canton": "GENERAL VILLAMIL PLAYAS",
+      "cod_cant": 921,
+      "Parroquias": [
+        {
+          "Parroquia": "GENERAL VILLAMIL",
+          "cod_parr": 92150
+        }
+      ]
+    },
+    {
+      "Canton": "GUAYAQUIL",
+      "cod_cant": 901,
+      "Parroquias": [
+        {
+          "Parroquia": "AYACUCHO",
+          "cod_parr": 90101
+        },
+        {
+          "Parroquia": "BOLIVAR (SAGRARIO)",
+          "cod_parr": 90102
+        },
+        {
+          "Parroquia": "CARBO (CONCEPCION)",
+          "cod_parr": 90103
+        },
+        {
+          "Parroquia": "FEBRES CORDERO",
+          "cod_parr": 90104
+        },
+        {
+          "Parroquia": "GARCIA MORENO",
+          "cod_parr": 90105
+        },
+        {
+          "Parroquia": "LETAMENDI",
+          "cod_parr": 90106
+        },
+        {
+          "Parroquia": "NUEVE DE OCTUBRE",
+          "cod_parr": 90107
+        },
+        {
+          "Parroquia": "OLMEDO (SAN ALEJO)",
+          "cod_parr": 90108
+        },
+        {
+          "Parroquia": "ROCA",
+          "cod_parr": 90109
+        },
+        {
+          "Parroquia": "ROCAFUERTE",
+          "cod_parr": 90110
+        },
+        {
+          "Parroquia": "SUCRE",
+          "cod_parr": 90111
+        },
+        {
+          "Parroquia": "TARQUI",
+          "cod_parr": 90112
+        },
+        {
+          "Parroquia": "URDANETA",
+          "cod_parr": 90113
+        },
+        {
+          "Parroquia": "XIMENA",
+          "cod_parr": 90114
+        },
+        {
+          "Parroquia": "CHONGON",
+          "cod_parr": 90115
+        },
+        {
+          "Parroquia": "PASCUALES",
+          "cod_parr": 90116
+        },
+        {
+          "Parroquia": "GUAYAQUIL",
+          "cod_parr": 90150
+        },
+        {
+          "Parroquia": "JUAN GOMEZ RENDON (PROGRESO)",
+          "cod_parr": 90152
+        },
+        {
+          "Parroquia": "MORRO",
+          "cod_parr": 90153
+        },
+        {
+          "Parroquia": "POSORJA",
+          "cod_parr": 90156
+        },
+        {
+          "Parroquia": "PUNA",
+          "cod_parr": 90157
+        },
+        {
+          "Parroquia": "TENGUEL",
+          "cod_parr": 90158
+        }
+      ]
+    },
+    {
+      "Canton": "ISIDRO AYORA",
+      "cod_cant": 928,
+      "Parroquias": [
+        {
+          "Parroquia": "ISIDRO AYORA",
+          "cod_parr": 92850
+        }
+      ]
+    },
+    {
+      "Canton": "LOMAS DE SARGENTILLO",
+      "cod_cant": 924,
+      "Parroquias": [
+        {
+          "Parroquia": "LOMAS DE SARGENTILLO",
+          "cod_parr": 92450
+        }
+      ]
+    },
+    {
+      "Canton": "MARCELINO MARIDUEÑA",
+      "cod_cant": 923,
+      "Parroquias": [
+        {
+          "Parroquia": "CORONEL MARCELINO MARIDUEÑA",
+          "cod_parr": 92350
+        }
+      ]
+    },
+    {
+      "Canton": "MILAGRO",
+      "cod_cant": 910,
+      "Parroquias": [
+        {
+          "Parroquia": "MILAGRO",
+          "cod_parr": 91050
+        },
+        {
+          "Parroquia": "CHOBO",
+          "cod_parr": 91051
+        },
+        {
+          "Parroquia": "MARISCAL SUCRE (HUAQUES)",
+          "cod_parr": 91053
+        },
+        {
+          "Parroquia": "ROBERTO ASTUDILLO",
+          "cod_parr": 91054
+        }
+      ]
+    },
+    {
+      "Canton": "NARANJAL",
+      "cod_cant": 911,
+      "Parroquias": [
+        {
+          "Parroquia": "NARANJAL",
+          "cod_parr": 91150
+        },
+        {
+          "Parroquia": "JESUS MARIA",
+          "cod_parr": 91151
+        },
+        {
+          "Parroquia": "SAN CARLOS",
+          "cod_parr": 91152
+        },
+        {
+          "Parroquia": "SANTA ROSA DE FLANDES",
+          "cod_parr": 91153
+        },
+        {
+          "Parroquia": "TAURA",
+          "cod_parr": 91154
+        }
+      ]
+    },
+    {
+      "Canton": "NARANJITO",
+      "cod_cant": 912,
+      "Parroquias": [
+        {
+          "Parroquia": "NARANJITO",
+          "cod_parr": 91250
+        }
+      ]
+    },
+    {
+      "Canton": "NOBOL",
+      "cod_cant": 925,
+      "Parroquias": [
+        {
+          "Parroquia": "NARCISA DE JESUS",
+          "cod_parr": 92550
+        }
+      ]
+    },
+    {
+      "Canton": "PALESTINA",
+      "cod_cant": 913,
+      "Parroquias": [
+        {
+          "Parroquia": "PALESTINA",
+          "cod_parr": 91350
+        }
+      ]
+    },
+    {
+      "Canton": "PEDRO CARBO",
+      "cod_cant": 914,
+      "Parroquias": [
+        {
+          "Parroquia": "PEDRO CARBO",
+          "cod_parr": 91450
+        },
+        {
+          "Parroquia": "VALLE DE LA VIRGEN",
+          "cod_parr": 91451
+        },
+        {
+          "Parroquia": "SABANILLA",
+          "cod_parr": 91452
+        }
+      ]
+    },
+    {
+      "Canton": "SALITRE",
+      "cod_cant": 919,
+      "Parroquias": [
+        {
+          "Parroquia": "BOCANA",
+          "cod_parr": 91901
+        },
+        {
+          "Parroquia": "CANDILEJOS",
+          "cod_parr": 91902
+        },
+        {
+          "Parroquia": "CENTRAL",
+          "cod_parr": 91903
+        },
+        {
+          "Parroquia": "PARAISO",
+          "cod_parr": 91904
+        },
+        {
+          "Parroquia": "SAN MATEO",
+          "cod_parr": 91905
+        },
+        {
+          "Parroquia": "EL SALITRE (LAS RAMAS)",
+          "cod_parr": 91950
+        },
+        {
+          "Parroquia": "GENERAL VERNAZA (DOS ESTEROS)",
+          "cod_parr": 91951
+        },
+        {
+          "Parroquia": "LA VICTORIA (ÑAUZA)",
+          "cod_parr": 91952
+        },
+        {
+          "Parroquia": "JUNQUILLAL",
+          "cod_parr": 91953
+        }
+      ]
+    },
+    {
+      "Canton": "SAMBORONDÓN",
+      "cod_cant": 916,
+      "Parroquias": [
+        {
+          "Parroquia": "SAMBORONDÓN",
+          "cod_parr": 91601
+        },
+        {
+          "Parroquia": "LA PUNTILLA (SATÉLITE)",
+          "cod_parr": 91602
+        },
+        {
+          "Parroquia": "SAMBORONDON",
+          "cod_parr": 91650
+        },
+        {
+          "Parroquia": "TARIFA",
+          "cod_parr": 91651
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA LUCIA",
+      "cod_cant": 918,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTA LUCIA",
+          "cod_parr": 91850
+        }
+      ]
+    },
+    {
+      "Canton": "SIMON BOLIVAR",
+      "cod_cant": 922,
+      "Parroquias": [
+        {
+          "Parroquia": "SIMON BOLIVAR",
+          "cod_parr": 92250
+        },
+        {
+          "Parroquia": "CRNEL. LORENZO DE GARAICOA (PEDREGAL)",
+          "cod_parr": 92251
+        }
+      ]
+    },
+    {
+      "Canton": "YAGUACHI",
+      "cod_cant": 920,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN JACINTO DE YAGUACHI",
+          "cod_parr": 92050
+        },
+        {
+          "Parroquia": "GRAL. PEDRO J. MONTERO (BOLICHE)",
+          "cod_parr": 92053
+        },
+        {
+          "Parroquia": "YAGUACHI VIEJO (CONE)",
+          "cod_parr": 92055
+        },
+        {
+          "Parroquia": "VIRGEN DE FATIMA",
+          "cod_parr": 92056
+        }
+      ]
+    },
+    {
+      "Canton": "ALFREDO BAQUERIZO MORENO",
+      "cod_cant": 902,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BALAO",
+      "cod_cant": 903,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BALZAR",
+      "cod_cant": 904,
+      "Parroquias": []
+    },
+    {
+      "Canton": "COLIMES",
+      "cod_cant": 905,
+      "Parroquias": []
+    },
+    {
+      "Canton": "DAULE",
+      "cod_cant": 906,
+      "Parroquias": []
+    },
+    {
+      "Canton": "DURÁN",
+      "cod_cant": 907,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL EMPALME",
+      "cod_cant": 908,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL TRIUNFO",
+      "cod_cant": 909,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GENERAL ANTONIO ELIZALDE",
+      "cod_cant": 927,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GENERAL VILLAMIL PLAYAS",
+      "cod_cant": 921,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GUAYAQUIL",
+      "cod_cant": 901,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ISIDRO AYORA",
+      "cod_cant": 928,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LOMAS DE SARGENTILLO",
+      "cod_cant": 924,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MARCELINO MARIDUEÑA",
+      "cod_cant": 923,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MILAGRO",
+      "cod_cant": 910,
+      "Parroquias": []
+    },
+    {
+      "Canton": "NARANJAL",
+      "cod_cant": 911,
+      "Parroquias": []
+    },
+    {
+      "Canton": "NARANJITO",
+      "cod_cant": 912,
+      "Parroquias": []
+    },
+    {
+      "Canton": "NOBOL",
+      "cod_cant": 925,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALESTINA",
+      "cod_cant": 913,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PEDRO CARBO",
+      "cod_cant": 914,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SALITRE",
+      "cod_cant": 919,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAMBORONDÓN",
+      "cod_cant": 916,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA LUCIA",
+      "cod_cant": 918,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SIMON BOLIVAR",
+      "cod_cant": 922,
+      "Parroquias": []
+    },
+    {
+      "Canton": "YAGUACHI",
+      "cod_cant": 920,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2194f158c6ba82dbb9a"
+  },
+  "Provincia": "IMBABURA",
+  "cod_prov": 11,
+  "Cantones": [
+    {
+      "Canton": "ANTONIO ANTE",
+      "cod_cant": 1002,
+      "Parroquias": [
+        {
+          "Parroquia": "ANDRADE MARIN (LOURDES)",
+          "cod_parr": 100201
+        },
+        {
+          "Parroquia": "ATUNTAQUI",
+          "cod_parr": 100202
+        },
+        {
+          "Parroquia": "ATUNTAQUI",
+          "cod_parr": 100250
+        },
+        {
+          "Parroquia": "IMBAYA (SAN LUIS DE COBUENDO)",
+          "cod_parr": 100251
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE NATABUEL",
+          "cod_parr": 100252
+        },
+        {
+          "Parroquia": "SAN JOSE DE CHALTURA",
+          "cod_parr": 100253
+        },
+        {
+          "Parroquia": "SAN ROQUE",
+          "cod_parr": 100254
+        }
+      ]
+    },
+    {
+      "Canton": "COTACACHI",
+      "cod_cant": 1003,
+      "Parroquias": [
+        {
+          "Parroquia": "SAGRARIO",
+          "cod_parr": 100301
+        },
+        {
+          "Parroquia": "SAN FRANCISCO",
+          "cod_parr": 100302
+        },
+        {
+          "Parroquia": "COTACACHI",
+          "cod_parr": 100350
+        },
+        {
+          "Parroquia": "APUELA",
+          "cod_parr": 100351
+        },
+        {
+          "Parroquia": "GARCIA MORENO (LLURIMAGUA)",
+          "cod_parr": 100352
+        },
+        {
+          "Parroquia": "IMANTAG",
+          "cod_parr": 100353
+        },
+        {
+          "Parroquia": "PEÑAHERRERA",
+          "cod_parr": 100354
+        },
+        {
+          "Parroquia": "PLAZA GUTIERREZ (CALVARIO)",
+          "cod_parr": 100355
+        },
+        {
+          "Parroquia": "QUIROGA",
+          "cod_parr": 100356
+        },
+        {
+          "Parroquia": "6 DE JULIO DE CUELLAJE",
+          "cod_parr": 100357
+        },
+        {
+          "Parroquia": "VACAS GALINDO (EL CHURO)",
+          "cod_parr": 100358
+        }
+      ]
+    },
+    {
+      "Canton": "IBARRA",
+      "cod_cant": 1001,
+      "Parroquias": [
+        {
+          "Parroquia": "CARANQUI",
+          "cod_parr": 100101
+        },
+        {
+          "Parroquia": "GUAYAQUIL DE ALPACHACA",
+          "cod_parr": 100102
+        },
+        {
+          "Parroquia": "SAGRARIO",
+          "cod_parr": 100103
+        },
+        {
+          "Parroquia": "SAN FRANCISCO",
+          "cod_parr": 100104
+        },
+        {
+          "Parroquia": "LA DOLOROSA DEL PIORATO",
+          "cod_parr": 100105
+        },
+        {
+          "Parroquia": "IBARRA",
+          "cod_parr": 100150
+        },
+        {
+          "Parroquia": "AMBUQUI",
+          "cod_parr": 100151
+        },
+        {
+          "Parroquia": "ANGOCHAGUA",
+          "cod_parr": 100152
+        },
+        {
+          "Parroquia": "CAROLINA",
+          "cod_parr": 100153
+        },
+        {
+          "Parroquia": "LA ESPERANZA",
+          "cod_parr": 100154
+        },
+        {
+          "Parroquia": "LITA",
+          "cod_parr": 100155
+        },
+        {
+          "Parroquia": "SALINAS",
+          "cod_parr": 100156
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 100157
+        }
+      ]
+    },
+    {
+      "Canton": "OTAVALO",
+      "cod_cant": 1004,
+      "Parroquias": [
+        {
+          "Parroquia": "JORDAN",
+          "cod_parr": 100401
+        },
+        {
+          "Parroquia": "SAN LUIS",
+          "cod_parr": 100402
+        },
+        {
+          "Parroquia": "OTAVALO",
+          "cod_parr": 100450
+        },
+        {
+          "Parroquia": "DR. MIGUEL EGAS CABEZAS (PEGUCHE)",
+          "cod_parr": 100451
+        },
+        {
+          "Parroquia": "EUGENIO ESPEJO (CALPAQUI)",
+          "cod_parr": 100452
+        },
+        {
+          "Parroquia": "GONZALEZ SUAREZ",
+          "cod_parr": 100453
+        },
+        {
+          "Parroquia": "PATAQUI",
+          "cod_parr": 100454
+        },
+        {
+          "Parroquia": "SAN JOSÉ DE QUICHINCHE",
+          "cod_parr": 100455
+        },
+        {
+          "Parroquia": "SAN JUAN DE ILUMAN",
+          "cod_parr": 100456
+        },
+        {
+          "Parroquia": "SAN PABLO",
+          "cod_parr": 100457
+        },
+        {
+          "Parroquia": "SAN RAFAEL",
+          "cod_parr": 100458
+        },
+        {
+          "Parroquia": "SELVA ALEGRE",
+          "cod_parr": 100459
+        }
+      ]
+    },
+    {
+      "Canton": "PIMAMPIRO",
+      "cod_cant": 1005,
+      "Parroquias": [
+        {
+          "Parroquia": "PIMAMPIRO",
+          "cod_parr": 100550
+        },
+        {
+          "Parroquia": "CHUGA",
+          "cod_parr": 100551
+        },
+        {
+          "Parroquia": "MARIANO ACOSTA",
+          "cod_parr": 100552
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE SIGSIPAM",
+          "cod_parr": 100553
+        }
+      ]
+    },
+    {
+      "Canton": "SAN MIGUEL DE URCUQUI",
+      "cod_cant": 1006,
+      "Parroquias": [
+        {
+          "Parroquia": "URCUQUI",
+          "cod_parr": 100650
+        },
+        {
+          "Parroquia": "CAHUASQUI",
+          "cod_parr": 100651
+        },
+        {
+          "Parroquia": "LA MERCED DE BUENOS AIRES",
+          "cod_parr": 100652
+        },
+        {
+          "Parroquia": "PABLO ARENAS",
+          "cod_parr": 100653
+        },
+        {
+          "Parroquia": "SAN BLAS",
+          "cod_parr": 100654
+        },
+        {
+          "Parroquia": "TUMBABIRO",
+          "cod_parr": 100655
+        }
+      ]
+    },
+    {
+      "Canton": "ANTONIO ANTE",
+      "cod_cant": 1002,
+      "Parroquias": []
+    },
+    {
+      "Canton": "COTACACHI",
+      "cod_cant": 1003,
+      "Parroquias": []
+    },
+    {
+      "Canton": "IBARRA",
+      "cod_cant": 1001,
+      "Parroquias": []
+    },
+    {
+      "Canton": "OTAVALO",
+      "cod_cant": 1004,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PIMAMPIRO",
+      "cod_cant": 1005,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN MIGUEL DE URCUQUI",
+      "cod_cant": 1006,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c2194f158c6ba82dbb9b"
+  },
+  "Provincia": "LOJA",
+  "cod_prov": 12,
+  "Cantones": [
+    {
+      "Canton": "CALVAS",
+      "cod_cant": 1102,
+      "Parroquias": [
+        {
+          "Parroquia": "CARIAMANGA",
+          "cod_parr": 110201
+        },
+        {
+          "Parroquia": "CHILE",
+          "cod_parr": 110202
+        },
+        {
+          "Parroquia": "SAN VICENTE",
+          "cod_parr": 110203
+        },
+        {
+          "Parroquia": "CARIAMANGA",
+          "cod_parr": 110250
+        },
+        {
+          "Parroquia": "COLAISACA",
+          "cod_parr": 110251
+        },
+        {
+          "Parroquia": "EL LUCERO",
+          "cod_parr": 110252
+        },
+        {
+          "Parroquia": "UTUANA",
+          "cod_parr": 110253
+        },
+        {
+          "Parroquia": "SANGILLIN",
+          "cod_parr": 110254
+        }
+      ]
+    },
+    {
+      "Canton": "CATAMAYO",
+      "cod_cant": 1103,
+      "Parroquias": [
+        {
+          "Parroquia": "CATAMAYO",
+          "cod_parr": 110301
+        },
+        {
+          "Parroquia": "SAN JOSE",
+          "cod_parr": 110302
+        },
+        {
+          "Parroquia": "CATAMAYO (LA TOMA)",
+          "cod_parr": 110350
+        },
+        {
+          "Parroquia": "EL TAMBO",
+          "cod_parr": 110351
+        },
+        {
+          "Parroquia": "GUAYQUICHUMA",
+          "cod_parr": 110352
+        },
+        {
+          "Parroquia": "SAN PEDRO DE LA BENDITA",
+          "cod_parr": 110353
+        },
+        {
+          "Parroquia": "ZAMBI",
+          "cod_parr": 110354
+        }
+      ]
+    },
+    {
+      "Canton": "CELICA",
+      "cod_cant": 1104,
+      "Parroquias": [
+        {
+          "Parroquia": "CELICA",
+          "cod_parr": 110450
+        },
+        {
+          "Parroquia": "CRUZPAMBA",
+          "cod_parr": 110451
+        },
+        {
+          "Parroquia": "POZUL (SAN JUAN DE POZUL)",
+          "cod_parr": 110455
+        },
+        {
+          "Parroquia": "SABANILLA",
+          "cod_parr": 110456
+        },
+        {
+          "Parroquia": "TNTE. MAXIMILIANO RODRIGUEZ LOAYZA",
+          "cod_parr": 110457
+        }
+      ]
+    },
+    {
+      "Canton": "CHAGUARPAMBA",
+      "cod_cant": 1105,
+      "Parroquias": [
+        {
+          "Parroquia": "CHAGUARPAMBA",
+          "cod_parr": 110550
+        },
+        {
+          "Parroquia": "BUENAVISTA",
+          "cod_parr": 110551
+        },
+        {
+          "Parroquia": "EL ROSARIO",
+          "cod_parr": 110552
+        },
+        {
+          "Parroquia": "SANTA RUFINA",
+          "cod_parr": 110553
+        },
+        {
+          "Parroquia": "AMARILLOS",
+          "cod_parr": 110554
+        }
+      ]
+    },
+    {
+      "Canton": "ESPINDOLA",
+      "cod_cant": 1106,
+      "Parroquias": [
+        {
+          "Parroquia": "AMALUZA",
+          "cod_parr": 110650
+        },
+        {
+          "Parroquia": "BELLAVISTA",
+          "cod_parr": 110651
+        },
+        {
+          "Parroquia": "JIMBURA",
+          "cod_parr": 110652
+        },
+        {
+          "Parroquia": "SANTA TERESITA",
+          "cod_parr": 110653
+        },
+        {
+          "Parroquia": "27 DE ABRIL",
+          "cod_parr": 110654
+        },
+        {
+          "Parroquia": "EL INGENIO",
+          "cod_parr": 110655
+        },
+        {
+          "Parroquia": "EL AIRO",
+          "cod_parr": 110656
+        }
+      ]
+    },
+    {
+      "Canton": "GONZANAMA",
+      "cod_cant": 1107,
+      "Parroquias": [
+        {
+          "Parroquia": "GONZANAMA",
+          "cod_parr": 110750
+        },
+        {
+          "Parroquia": "CHANGAIMINA (LA LIBERTAD)",
+          "cod_parr": 110751
+        },
+        {
+          "Parroquia": "NAMBACOLA",
+          "cod_parr": 110753
+        },
+        {
+          "Parroquia": "PURUNUMA (EGUIGUREN)",
+          "cod_parr": 110754
+        },
+        {
+          "Parroquia": "SACAPALCA",
+          "cod_parr": 110756
+        }
+      ]
+    },
+    {
+      "Canton": "LOJA",
+      "cod_cant": 1101,
+      "Parroquias": [
+        {
+          "Parroquia": "EL SAGRARIO",
+          "cod_parr": 110101
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN",
+          "cod_parr": 110102
+        },
+        {
+          "Parroquia": "SUCRE",
+          "cod_parr": 110103
+        },
+        {
+          "Parroquia": "VALLE",
+          "cod_parr": 110104
+        },
+        {
+          "Parroquia": "LOJA",
+          "cod_parr": 110150
+        },
+        {
+          "Parroquia": "CHANTACO",
+          "cod_parr": 110151
+        },
+        {
+          "Parroquia": "CHUQUIRIBAMBA",
+          "cod_parr": 110152
+        },
+        {
+          "Parroquia": "EL CISNE",
+          "cod_parr": 110153
+        },
+        {
+          "Parroquia": "GUALEL",
+          "cod_parr": 110154
+        },
+        {
+          "Parroquia": "JIMBILLA",
+          "cod_parr": 110155
+        },
+        {
+          "Parroquia": "MALACATOS (VALLADOLID)",
+          "cod_parr": 110156
+        },
+        {
+          "Parroquia": "SAN LUCAS",
+          "cod_parr": 110157
+        },
+        {
+          "Parroquia": "SAN PEDRO DE VILCABAMBA",
+          "cod_parr": 110158
+        },
+        {
+          "Parroquia": "SANTIAGO",
+          "cod_parr": 110159
+        },
+        {
+          "Parroquia": "TAQUIL (MIGUEL RIOFRIO)",
+          "cod_parr": 110160
+        },
+        {
+          "Parroquia": "VILCABAMBA (VICTORIA)",
+          "cod_parr": 110161
+        },
+        {
+          "Parroquia": "YANGANA (ARSENIO CASTILLO)",
+          "cod_parr": 110162
+        },
+        {
+          "Parroquia": "QUINARA",
+          "cod_parr": 110163
+        }
+      ]
+    },
+    {
+      "Canton": "MACARA",
+      "cod_cant": 1108,
+      "Parroquias": [
+        {
+          "Parroquia": "GENERAL ELOY ALFARO (SAN SEBASTIAN)",
+          "cod_parr": 110801
+        },
+        {
+          "Parroquia": "MACARA (MANUEL ENRIQUE RANGEL SUQUILANDA)",
+          "cod_parr": 110802
+        },
+        {
+          "Parroquia": "MACARA",
+          "cod_parr": 110850
+        },
+        {
+          "Parroquia": "LARAMA",
+          "cod_parr": 110851
+        },
+        {
+          "Parroquia": "LA VICTORIA",
+          "cod_parr": 110852
+        },
+        {
+          "Parroquia": "SABIANGO (LA CAPILLA)",
+          "cod_parr": 110853
+        }
+      ]
+    },
+    {
+      "Canton": "OLMEDO",
+      "cod_cant": 1116,
+      "Parroquias": [
+        {
+          "Parroquia": "OLMEDO",
+          "cod_parr": 111650
+        },
+        {
+          "Parroquia": "TINGUE",
+          "cod_parr": 111651
+        }
+      ]
+    },
+    {
+      "Canton": "PALTAS",
+      "cod_cant": 1109,
+      "Parroquias": [
+        {
+          "Parroquia": "CATACOCHA",
+          "cod_parr": 110901
+        },
+        {
+          "Parroquia": "LOURDES",
+          "cod_parr": 110902
+        },
+        {
+          "Parroquia": "CATACOCHA",
+          "cod_parr": 110950
+        },
+        {
+          "Parroquia": "CANGONAMA",
+          "cod_parr": 110951
+        },
+        {
+          "Parroquia": "GUACHANAMA",
+          "cod_parr": 110952
+        },
+        {
+          "Parroquia": "LAURO GUERRERO",
+          "cod_parr": 110954
+        },
+        {
+          "Parroquia": "ORIANGA",
+          "cod_parr": 110956
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 110957
+        },
+        {
+          "Parroquia": "CASANGA",
+          "cod_parr": 110958
+        },
+        {
+          "Parroquia": "YAMANA",
+          "cod_parr": 110959
+        }
+      ]
+    },
+    {
+      "Canton": "PINDAL",
+      "cod_cant": 1114,
+      "Parroquias": [
+        {
+          "Parroquia": "PINDAL",
+          "cod_parr": 111450
+        },
+        {
+          "Parroquia": "CHAQUINAL",
+          "cod_parr": 111451
+        },
+        {
+          "Parroquia": "12 DE DICIEMBRE",
+          "cod_parr": 111452
+        }
+      ]
+    },
+    {
+      "Canton": "PUYANGO",
+      "cod_cant": 1110,
+      "Parroquias": [
+        {
+          "Parroquia": "ALAMOR",
+          "cod_parr": 111050
+        },
+        {
+          "Parroquia": "CIANO",
+          "cod_parr": 111051
+        },
+        {
+          "Parroquia": "EL ARENAL",
+          "cod_parr": 111052
+        },
+        {
+          "Parroquia": "EL LIMO (MARIANA DE JESUS)",
+          "cod_parr": 111053
+        },
+        {
+          "Parroquia": "MERCADILLO",
+          "cod_parr": 111054
+        },
+        {
+          "Parroquia": "VICENTINO",
+          "cod_parr": 111055
+        }
+      ]
+    },
+    {
+      "Canton": "QUILANGA",
+      "cod_cant": 1115,
+      "Parroquias": [
+        {
+          "Parroquia": "QUILANGA",
+          "cod_parr": 111550
+        },
+        {
+          "Parroquia": "FUNDOCHAMBA",
+          "cod_parr": 111551
+        },
+        {
+          "Parroquia": "SAN ANTONIO DE LAS ARADAS",
+          "cod_parr": 111552
+        }
+      ]
+    },
+    {
+      "Canton": "SARAGURO",
+      "cod_cant": 1111,
+      "Parroquias": [
+        {
+          "Parroquia": "SARAGURO",
+          "cod_parr": 111150
+        },
+        {
+          "Parroquia": "EL PARAISO DE CELEN",
+          "cod_parr": 111151
+        },
+        {
+          "Parroquia": "EL TABLON",
+          "cod_parr": 111152
+        },
+        {
+          "Parroquia": "LLUZHAPA",
+          "cod_parr": 111153
+        },
+        {
+          "Parroquia": "MANU",
+          "cod_parr": 111154
+        },
+        {
+          "Parroquia": "SAN ANTONIO DE QUIMBE (CUMBE)",
+          "cod_parr": 111155
+        },
+        {
+          "Parroquia": "SAN PABLO DE TENTA",
+          "cod_parr": 111156
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN DE YULUC",
+          "cod_parr": 111157
+        },
+        {
+          "Parroquia": "SELVA ALEGRE",
+          "cod_parr": 111158
+        },
+        {
+          "Parroquia": "URDANETA (PAQUISHAPA)",
+          "cod_parr": 111159
+        },
+        {
+          "Parroquia": "SUMAYPAMBA",
+          "cod_parr": 111160
+        }
+      ]
+    },
+    {
+      "Canton": "SOZORANGA",
+      "cod_cant": 1112,
+      "Parroquias": [
+        {
+          "Parroquia": "SOZORANGA",
+          "cod_parr": 111250
+        },
+        {
+          "Parroquia": "NUEVA FATIMA",
+          "cod_parr": 111251
+        },
+        {
+          "Parroquia": "TACAMOROS",
+          "cod_parr": 111252
+        }
+      ]
+    },
+    {
+      "Canton": "ZAPOTILLO",
+      "cod_cant": 1113,
+      "Parroquias": [
+        {
+          "Parroquia": "ZAPOTILLO",
+          "cod_parr": 111350
+        },
+        {
+          "Parroquia": "MANGAHURCO",
+          "cod_parr": 111351
+        },
+        {
+          "Parroquia": "GARZAREAL",
+          "cod_parr": 111352
+        },
+        {
+          "Parroquia": "LIMONES",
+          "cod_parr": 111353
+        },
+        {
+          "Parroquia": "PALETILLAS",
+          "cod_parr": 111354
+        },
+        {
+          "Parroquia": "BOLASPAMBA",
+          "cod_parr": 111355
+        }
+      ]
+    },
+    {
+      "Canton": "CALVAS",
+      "cod_cant": 1102,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CATAMAYO",
+      "cod_cant": 1103,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CELICA",
+      "cod_cant": 1104,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHAGUARPAMBA",
+      "cod_cant": 1105,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ESPINDOLA",
+      "cod_cant": 1106,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GONZANAMA",
+      "cod_cant": 1107,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LOJA",
+      "cod_cant": 1101,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MACARA",
+      "cod_cant": 1108,
+      "Parroquias": []
+    },
+    {
+      "Canton": "OLMEDO",
+      "cod_cant": 1116,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALTAS",
+      "cod_cant": 1109,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PINDAL",
+      "cod_cant": 1114,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUYANGO",
+      "cod_cant": 1110,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUILANGA",
+      "cod_cant": 1115,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SARAGURO",
+      "cod_cant": 1111,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SOZORANGA",
+      "cod_cant": 1112,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ZAPOTILLO",
+      "cod_cant": 1113,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21a4f158c6ba82dbb9c"
+  },
+  "Provincia": "LOS RIOS",
+  "cod_prov": 13,
+  "Cantones": [
+    {
+      "Canton": "BABA",
+      "cod_cant": 1202,
+      "Parroquias": [
+        {
+          "Parroquia": "BABA",
+          "cod_parr": 120250
+        },
+        {
+          "Parroquia": "GUARE",
+          "cod_parr": 120251
+        },
+        {
+          "Parroquia": "ISLA DE BEJUCAL",
+          "cod_parr": 120252
+        }
+      ]
+    },
+    {
+      "Canton": "BABAHOYO",
+      "cod_cant": 1201,
+      "Parroquias": [
+        {
+          "Parroquia": "CLEMENTE BAQUERIZO",
+          "cod_parr": 120101
+        },
+        {
+          "Parroquia": "DR. CAMILO PONCE",
+          "cod_parr": 120102
+        },
+        {
+          "Parroquia": "BARREIRO",
+          "cod_parr": 120103
+        },
+        {
+          "Parroquia": "EL SALTO",
+          "cod_parr": 120104
+        },
+        {
+          "Parroquia": "BABAHOYO",
+          "cod_parr": 120150
+        },
+        {
+          "Parroquia": "CARACOL",
+          "cod_parr": 120152
+        },
+        {
+          "Parroquia": "FEBRES CORDERO",
+          "cod_parr": 120153
+        },
+        {
+          "Parroquia": "PIMOCHA",
+          "cod_parr": 120154
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 120155
+        }
+      ]
+    },
+    {
+      "Canton": "BUENA FE",
+      "cod_cant": 1210,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN JACINTO DE BUENA FÉ",
+          "cod_parr": 121001
+        },
+        {
+          "Parroquia": "7 DE AGOSTO",
+          "cod_parr": 121002
+        },
+        {
+          "Parroquia": "11 DE OCTUBRE",
+          "cod_parr": 121003
+        },
+        {
+          "Parroquia": "SAN JACINTO DE BUENA FE",
+          "cod_parr": 121050
+        },
+        {
+          "Parroquia": "PATRICIA PILAR",
+          "cod_parr": 121051
+        }
+      ]
+    },
+    {
+      "Canton": "MOCACHE",
+      "cod_cant": 1212,
+      "Parroquias": [
+        {
+          "Parroquia": "MOCACHE",
+          "cod_parr": 121250
+        }
+      ]
+    },
+    {
+      "Canton": "MONTALVO",
+      "cod_cant": 1203,
+      "Parroquias": [
+        {
+          "Parroquia": "MONTALVO",
+          "cod_parr": 120350
+        }
+      ]
+    },
+    {
+      "Canton": "PALENQUE",
+      "cod_cant": 1209,
+      "Parroquias": [
+        {
+          "Parroquia": "PALENQUE",
+          "cod_parr": 120950
+        }
+      ]
+    },
+    {
+      "Canton": "PUEBLO VIEJO",
+      "cod_cant": 1204,
+      "Parroquias": [
+        {
+          "Parroquia": "PUEBLOVIEJO",
+          "cod_parr": 120450
+        },
+        {
+          "Parroquia": "PUERTO PECHICHE",
+          "cod_parr": 120451
+        },
+        {
+          "Parroquia": "SAN JUAN",
+          "cod_parr": 120452
+        }
+      ]
+    },
+    {
+      "Canton": "QUEVEDO",
+      "cod_cant": 1205,
+      "Parroquias": [
+        {
+          "Parroquia": "QUEVEDO",
+          "cod_parr": 120501
+        },
+        {
+          "Parroquia": "SAN CAMILO",
+          "cod_parr": 120502
+        },
+        {
+          "Parroquia": "GUAYACAN",
+          "cod_parr": 120504
+        },
+        {
+          "Parroquia": "NICOLAS INFANTE DIAZ",
+          "cod_parr": 120505
+        },
+        {
+          "Parroquia": "SAN CRISTOBAL",
+          "cod_parr": 120506
+        },
+        {
+          "Parroquia": "SIETE DE OCTUBRE",
+          "cod_parr": 120507
+        },
+        {
+          "Parroquia": "24 DE MAYO",
+          "cod_parr": 120508
+        },
+        {
+          "Parroquia": "VENUS DEL RIO QUEVEDO",
+          "cod_parr": 120509
+        },
+        {
+          "Parroquia": "VIVA ALFARO",
+          "cod_parr": 120510
+        },
+        {
+          "Parroquia": "QUEVEDO",
+          "cod_parr": 120550
+        },
+        {
+          "Parroquia": "SAN CARLOS",
+          "cod_parr": 120553
+        },
+        {
+          "Parroquia": "LAS ESPERANZA",
+          "cod_parr": 120555
+        }
+      ]
+    },
+    {
+      "Canton": "QUINSALOMA",
+      "cod_cant": 1213,
+      "Parroquias": [
+        {
+          "Parroquia": "QUINSALOMA",
+          "cod_parr": 121350
+        }
+      ]
+    },
+    {
+      "Canton": "URDANETA",
+      "cod_cant": 1206,
+      "Parroquias": [
+        {
+          "Parroquia": "CATARAMA",
+          "cod_parr": 120650
+        },
+        {
+          "Parroquia": "RICAURTE",
+          "cod_parr": 120651
+        }
+      ]
+    },
+    {
+      "Canton": "VALENCIA",
+      "cod_cant": 1211,
+      "Parroquias": [
+        {
+          "Parroquia": "VALENCIA",
+          "cod_parr": 121150
+        }
+      ]
+    },
+    {
+      "Canton": "VENTANAS",
+      "cod_cant": 1207,
+      "Parroquias": [
+        {
+          "Parroquia": "VENTANAS",
+          "cod_parr": 120750
+        },
+        {
+          "Parroquia": "ZAPOTAL",
+          "cod_parr": 120752
+        }
+      ]
+    },
+    {
+      "Canton": "VINCES",
+      "cod_cant": 1208,
+      "Parroquias": [
+        {
+          "Parroquia": "VINCES",
+          "cod_parr": 120850
+        },
+        {
+          "Parroquia": "ANTONIO SOTOMAYOR",
+          "cod_parr": 120851
+        }
+      ]
+    },
+    {
+      "Canton": "BABA",
+      "cod_cant": 1202,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BABAHOYO",
+      "cod_cant": 1201,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BUENA FE",
+      "cod_cant": 1210,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MOCACHE",
+      "cod_cant": 1212,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MONTALVO",
+      "cod_cant": 1203,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALENQUE",
+      "cod_cant": 1209,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUEBLO VIEJO",
+      "cod_cant": 1204,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUEVEDO",
+      "cod_cant": 1205,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUINSALOMA",
+      "cod_cant": 1213,
+      "Parroquias": []
+    },
+    {
+      "Canton": "URDANETA",
+      "cod_cant": 1206,
+      "Parroquias": []
+    },
+    {
+      "Canton": "VALENCIA",
+      "cod_cant": 1211,
+      "Parroquias": []
+    },
+    {
+      "Canton": "VENTANAS",
+      "cod_cant": 1207,
+      "Parroquias": []
+    },
+    {
+      "Canton": "VINCES",
+      "cod_cant": 1208,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21a4f158c6ba82dbb9d"
+  },
+  "Provincia": "MANABI",
+  "cod_prov": 14,
+  "Cantones": [
+    {
+      "Canton": "24 DE MAYO",
+      "cod_cant": 1316,
+      "Parroquias": [
+        {
+          "Parroquia": "SUCRE",
+          "cod_parr": 131650
+        },
+        {
+          "Parroquia": "BELLAVISTA",
+          "cod_parr": 131651
+        },
+        {
+          "Parroquia": "NOBOA",
+          "cod_parr": 131652
+        },
+        {
+          "Parroquia": "ARQ. SIXTO DURAN BALLEN",
+          "cod_parr": 131653
+        }
+      ]
+    },
+    {
+      "Canton": "BOLIVAR",
+      "cod_cant": 1302,
+      "Parroquias": [
+        {
+          "Parroquia": "CALCETA",
+          "cod_parr": 130250
+        },
+        {
+          "Parroquia": "MEMBRILLO",
+          "cod_parr": 130251
+        },
+        {
+          "Parroquia": "QUIROGA",
+          "cod_parr": 130252
+        }
+      ]
+    },
+    {
+      "Canton": "CHONE",
+      "cod_cant": 1303,
+      "Parroquias": [
+        {
+          "Parroquia": "CHONE",
+          "cod_parr": 130301
+        },
+        {
+          "Parroquia": "SANTA RITA",
+          "cod_parr": 130302
+        },
+        {
+          "Parroquia": "CHONE",
+          "cod_parr": 130350
+        },
+        {
+          "Parroquia": "BOYACA",
+          "cod_parr": 130351
+        },
+        {
+          "Parroquia": "CANUTO",
+          "cod_parr": 130352
+        },
+        {
+          "Parroquia": "CONVENTO",
+          "cod_parr": 130353
+        },
+        {
+          "Parroquia": "CHIBUNGA",
+          "cod_parr": 130354
+        },
+        {
+          "Parroquia": "ELOY ALFARO",
+          "cod_parr": 130355
+        },
+        {
+          "Parroquia": "RICAURTE",
+          "cod_parr": 130356
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 130357
+        }
+      ]
+    },
+    {
+      "Canton": "EL CARMEN",
+      "cod_cant": 1304,
+      "Parroquias": [
+        {
+          "Parroquia": "EL CARMEN",
+          "cod_parr": 130401
+        },
+        {
+          "Parroquia": "4 DE DICIEMBRE",
+          "cod_parr": 130404
+        },
+        {
+          "Parroquia": "EL CARMEN",
+          "cod_parr": 130450
+        },
+        {
+          "Parroquia": "WILFRIDO LOOR MOREIRA (MAICITO)",
+          "cod_parr": 130451
+        },
+        {
+          "Parroquia": "SAN PEDRO DE SUMA",
+          "cod_parr": 130452
+        }
+      ]
+    },
+    {
+      "Canton": "FLAVIO ALFARO",
+      "cod_cant": 1305,
+      "Parroquias": [
+        {
+          "Parroquia": "FLAVIO ALFARO",
+          "cod_parr": 130550
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE NOVILLO",
+          "cod_parr": 130551
+        },
+        {
+          "Parroquia": "ZAPALLO",
+          "cod_parr": 130552
+        }
+      ]
+    },
+    {
+      "Canton": "JAMA",
+      "cod_cant": 1320,
+      "Parroquias": [
+        {
+          "Parroquia": "JAMA",
+          "cod_parr": 132050
+        }
+      ]
+    },
+    {
+      "Canton": "JARAMIJO",
+      "cod_cant": 1321,
+      "Parroquias": [
+        {
+          "Parroquia": "JARAMIJO",
+          "cod_parr": 132150
+        }
+      ]
+    },
+    {
+      "Canton": "JIPIJAPA",
+      "cod_cant": 1306,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN LORENZO DE JIPIJAPA",
+          "cod_parr": 130601
+        },
+        {
+          "Parroquia": "DR. MIGUEL MORAN LUCIO",
+          "cod_parr": 130602
+        },
+        {
+          "Parroquia": "MANUEL INOCENCIO PARRALES Y GUALE",
+          "cod_parr": 130603
+        },
+        {
+          "Parroquia": "JIPIJAPA",
+          "cod_parr": 130650
+        },
+        {
+          "Parroquia": "AMERICA",
+          "cod_parr": 130651
+        },
+        {
+          "Parroquia": "EL ANEGADO",
+          "cod_parr": 130652
+        },
+        {
+          "Parroquia": "JULCUY",
+          "cod_parr": 130653
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 130654
+        },
+        {
+          "Parroquia": "MEMBRILLAL",
+          "cod_parr": 130656
+        },
+        {
+          "Parroquia": "PEDRO PABLO GOMEZ",
+          "cod_parr": 130657
+        },
+        {
+          "Parroquia": "PUERTO DE CAYO",
+          "cod_parr": 130658
+        }
+      ]
+    },
+    {
+      "Canton": "JUNIN",
+      "cod_cant": 1307,
+      "Parroquias": [
+        {
+          "Parroquia": "JUNIN",
+          "cod_parr": 130750
+        }
+      ]
+    },
+    {
+      "Canton": "MANTA",
+      "cod_cant": 1308,
+      "Parroquias": [
+        {
+          "Parroquia": "LOS ESTEROS",
+          "cod_parr": 130801
+        },
+        {
+          "Parroquia": "MANTA",
+          "cod_parr": 130802
+        },
+        {
+          "Parroquia": "SAN MATEO",
+          "cod_parr": 130803
+        },
+        {
+          "Parroquia": "TARQUI",
+          "cod_parr": 130804
+        },
+        {
+          "Parroquia": "ELOY ALFARO",
+          "cod_parr": 130805
+        },
+        {
+          "Parroquia": "MANTA",
+          "cod_parr": 130850
+        },
+        {
+          "Parroquia": "SAN LORENZO",
+          "cod_parr": 130851
+        },
+        {
+          "Parroquia": "SANTA MARIANITA (BOCA DE PACOCHE)",
+          "cod_parr": 130852
+        }
+      ]
+    },
+    {
+      "Canton": "MONTECRISTI",
+      "cod_cant": 1309,
+      "Parroquias": [
+        {
+          "Parroquia": "MONTECRISTI",
+          "cod_parr": 130901
+        },
+        {
+          "Parroquia": "ANIBAL SAN ANDRES",
+          "cod_parr": 130902
+        },
+        {
+          "Parroquia": "MONTECRISTI",
+          "cod_parr": 130950
+        },
+        {
+          "Parroquia": "LA PILA",
+          "cod_parr": 130952
+        }
+      ]
+    },
+    {
+      "Canton": "OLMEDO",
+      "cod_cant": 1318,
+      "Parroquias": [
+        {
+          "Parroquia": "OLMEDO",
+          "cod_parr": 131850
+        }
+      ]
+    },
+    {
+      "Canton": "PAJAN",
+      "cod_cant": 1310,
+      "Parroquias": [
+        {
+          "Parroquia": "PAJAN",
+          "cod_parr": 131050
+        },
+        {
+          "Parroquia": "CAMPOZANO (LA PALMA DE PAJAN)",
+          "cod_parr": 131051
+        },
+        {
+          "Parroquia": "CASCOL",
+          "cod_parr": 131052
+        },
+        {
+          "Parroquia": "GUALE",
+          "cod_parr": 131053
+        },
+        {
+          "Parroquia": "LASCANO",
+          "cod_parr": 131054
+        }
+      ]
+    },
+    {
+      "Canton": "PEDERNALES",
+      "cod_cant": 1317,
+      "Parroquias": [
+        {
+          "Parroquia": "PEDERNALES",
+          "cod_parr": 131750
+        },
+        {
+          "Parroquia": "COJIMIES",
+          "cod_parr": 131751
+        },
+        {
+          "Parroquia": "10 DE AGOSTO",
+          "cod_parr": 131752
+        },
+        {
+          "Parroquia": "ATAHUALPA",
+          "cod_parr": 131753
+        }
+      ]
+    },
+    {
+      "Canton": "PICHINCHA",
+      "cod_cant": 1311,
+      "Parroquias": [
+        {
+          "Parroquia": "PICHINCHA",
+          "cod_parr": 131150
+        },
+        {
+          "Parroquia": "BARRAGANETE",
+          "cod_parr": 131151
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN",
+          "cod_parr": 131152
+        }
+      ]
+    },
+    {
+      "Canton": "PORTOVIEJO",
+      "cod_cant": 1301,
+      "Parroquias": [
+        {
+          "Parroquia": "ANDRES DE VERA",
+          "cod_parr": 130101
+        },
+        {
+          "Parroquia": "COLON",
+          "cod_parr": 130102
+        },
+        {
+          "Parroquia": "12 DE MARZO",
+          "cod_parr": 130103
+        },
+        {
+          "Parroquia": "PICOAZA",
+          "cod_parr": 130104
+        },
+        {
+          "Parroquia": "PORTOVIEJO",
+          "cod_parr": 130105
+        },
+        {
+          "Parroquia": "SAN PABLO",
+          "cod_parr": 130106
+        },
+        {
+          "Parroquia": "18 DE OCTUBRE",
+          "cod_parr": 130107
+        },
+        {
+          "Parroquia": "FRANCISCO PACHECO",
+          "cod_parr": 130108
+        },
+        {
+          "Parroquia": "SIMÓN BOLÍVAR",
+          "cod_parr": 130109
+        },
+        {
+          "Parroquia": "PORTOVIEJO",
+          "cod_parr": 130150
+        },
+        {
+          "Parroquia": "ABDON CALDERON (SAN FRANCISCO)",
+          "cod_parr": 130151
+        },
+        {
+          "Parroquia": "ALHAJUELA (BAJO GRANDE)",
+          "cod_parr": 130152
+        },
+        {
+          "Parroquia": "CRUCITA",
+          "cod_parr": 130153
+        },
+        {
+          "Parroquia": "PUEBLO NUEVO",
+          "cod_parr": 130154
+        },
+        {
+          "Parroquia": "RIOCHICO (RIO CHICO)",
+          "cod_parr": 130155
+        },
+        {
+          "Parroquia": "SAN PLACIDO",
+          "cod_parr": 130156
+        },
+        {
+          "Parroquia": "CHIRIJOS",
+          "cod_parr": 130157
+        }
+      ]
+    },
+    {
+      "Canton": "PUERTO LOPEZ",
+      "cod_cant": 1309,
+      "Parroquias": [
+        {
+          "Parroquia": "MONTECRISTI",
+          "cod_parr": 130901
+        },
+        {
+          "Parroquia": "ANIBAL SAN ANDRES",
+          "cod_parr": 130902
+        },
+        {
+          "Parroquia": "MONTECRISTI",
+          "cod_parr": 130950
+        },
+        {
+          "Parroquia": "LA PILA",
+          "cod_parr": 130952
+        }
+      ]
+    },
+    {
+      "Canton": "ROCAFUERTE",
+      "cod_cant": 1312,
+      "Parroquias": [
+        {
+          "Parroquia": "ROCAFUERTE",
+          "cod_parr": 131250
+        }
+      ]
+    },
+    {
+      "Canton": "SAN VICENTE",
+      "cod_cant": 1322,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN VICENTE",
+          "cod_parr": 132250
+        },
+        {
+          "Parroquia": "CANOA",
+          "cod_parr": 132251
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA ANA",
+      "cod_cant": 1313,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTA ANA",
+          "cod_parr": 131301
+        },
+        {
+          "Parroquia": "LODANA",
+          "cod_parr": 131302
+        },
+        {
+          "Parroquia": "SANTA ANA DE VUELTA LARGA",
+          "cod_parr": 131350
+        },
+        {
+          "Parroquia": "AYACUCHO",
+          "cod_parr": 131351
+        },
+        {
+          "Parroquia": "HONORATO VASQUEZ",
+          "cod_parr": 131352
+        },
+        {
+          "Parroquia": "LA UNION",
+          "cod_parr": 131353
+        },
+        {
+          "Parroquia": "SAN PABLO",
+          "cod_parr": 131355
+        }
+      ]
+    },
+    {
+      "Canton": "SUCRE",
+      "cod_cant": 1314,
+      "Parroquias": [
+        {
+          "Parroquia": "BAHIA DE CARAQUEZ",
+          "cod_parr": 131401
+        },
+        {
+          "Parroquia": "LEONIDAS PLAZA GUTIERREZ",
+          "cod_parr": 131402
+        },
+        {
+          "Parroquia": "BAHIA DE CARAQUEZ",
+          "cod_parr": 131450
+        },
+        {
+          "Parroquia": "CHARAPOTO",
+          "cod_parr": 131453
+        },
+        {
+          "Parroquia": "SAN ISIDRO",
+          "cod_parr": 131457
+        }
+      ]
+    },
+    {
+      "Canton": "TOSAGUA",
+      "cod_cant": 1315,
+      "Parroquias": [
+        {
+          "Parroquia": "TOSAGUA",
+          "cod_parr": 131550
+        },
+        {
+          "Parroquia": "BACHILLERO",
+          "cod_parr": 131551
+        },
+        {
+          "Parroquia": "ANGEL PEDRO GILER",
+          "cod_parr": 131552
+        }
+      ]
+    },
+    {
+      "Canton": "24 DE MAYO",
+      "cod_cant": 1316,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BOLIVAR",
+      "cod_cant": 1302,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHONE",
+      "cod_cant": 1303,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL CARMEN",
+      "cod_cant": 1304,
+      "Parroquias": []
+    },
+    {
+      "Canton": "FLAVIO ALFARO",
+      "cod_cant": 1305,
+      "Parroquias": []
+    },
+    {
+      "Canton": "JAMA",
+      "cod_cant": 1320,
+      "Parroquias": []
+    },
+    {
+      "Canton": "JARAMIJO",
+      "cod_cant": 1321,
+      "Parroquias": []
+    },
+    {
+      "Canton": "JIPIJAPA",
+      "cod_cant": 1306,
+      "Parroquias": []
+    },
+    {
+      "Canton": "JUNIN",
+      "cod_cant": 1307,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MANTA",
+      "cod_cant": 1308,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MONTECRISTI",
+      "cod_cant": 1309,
+      "Parroquias": []
+    },
+    {
+      "Canton": "OLMEDO",
+      "cod_cant": 1318,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PAJAN",
+      "cod_cant": 1310,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PEDERNALES",
+      "cod_cant": 1317,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PICHINCHA",
+      "cod_cant": 1311,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PORTOVIEJO",
+      "cod_cant": 1301,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUERTO LOPEZ",
+      "cod_cant": 1309,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ROCAFUERTE",
+      "cod_cant": 1312,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN VICENTE",
+      "cod_cant": 1322,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA ANA",
+      "cod_cant": 1313,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SUCRE",
+      "cod_cant": 1314,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TOSAGUA",
+      "cod_cant": 1315,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21b4f158c6ba82dbb9e"
+  },
+  "Provincia": "MORONA SANTIAGO",
+  "cod_prov": 15,
+  "Cantones": [
+    {
+      "Canton": "GUALAQUIZA",
+      "cod_cant": 1402,
+      "Parroquias": [
+        {
+          "Parroquia": "GUALAQUIZA",
+          "cod_parr": 140201
+        },
+        {
+          "Parroquia": "MERCEDES MOLINA",
+          "cod_parr": 140202
+        },
+        {
+          "Parroquia": "GUALAQUIZA",
+          "cod_parr": 140250
+        },
+        {
+          "Parroquia": "AMAZONAS (ROSARIO DE CUYES)",
+          "cod_parr": 140251
+        },
+        {
+          "Parroquia": "BERMEJOS",
+          "cod_parr": 140252
+        },
+        {
+          "Parroquia": "BOMBOIZA",
+          "cod_parr": 140253
+        },
+        {
+          "Parroquia": "CHIGÜINDA",
+          "cod_parr": 140254
+        },
+        {
+          "Parroquia": "EL ROSARIO",
+          "cod_parr": 140255
+        },
+        {
+          "Parroquia": "NUEVA TARQUI",
+          "cod_parr": 140256
+        },
+        {
+          "Parroquia": "SAN MIGUEL DE CUYES",
+          "cod_parr": 140257
+        },
+        {
+          "Parroquia": "EL IDEAL",
+          "cod_parr": 140258
+        }
+      ]
+    },
+    {
+      "Canton": "HUAMBOYA",
+      "cod_cant": 1407,
+      "Parroquias": [
+        {
+          "Parroquia": "HUAMBOYA",
+          "cod_parr": 140750
+        },
+        {
+          "Parroquia": "CHIGUAZA",
+          "cod_parr": 140751
+        }
+      ]
+    },
+    {
+      "Canton": "LIMON INDANZA",
+      "cod_cant": 1403,
+      "Parroquias": [
+        {
+          "Parroquia": "GENERAL LEONIDAS PLAZA GUTIERREZ (LIMON)",
+          "cod_parr": 140350
+        },
+        {
+          "Parroquia": "INDANZA",
+          "cod_parr": 140351
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 140353
+        },
+        {
+          "Parroquia": "SAN MIGUEL DE CONCHAY",
+          "cod_parr": 140356
+        },
+        {
+          "Parroquia": "SANTA SUSANA DE CHIVIAZA",
+          "cod_parr": 140357
+        },
+        {
+          "Parroquia": "YUNGANZA",
+          "cod_parr": 140358
+        }
+      ]
+    },
+    {
+      "Canton": "LOGROÑO",
+      "cod_cant": 1410,
+      "Parroquias": [
+        {
+          "Parroquia": "LOGROÑO",
+          "cod_parr": 141050
+        },
+        {
+          "Parroquia": "YAUPI",
+          "cod_parr": 141051
+        },
+        {
+          "Parroquia": "SHIMPIS",
+          "cod_parr": 141052
+        }
+      ]
+    },
+    {
+      "Canton": "MORONA",
+      "cod_cant": 1401,
+      "Parroquias": [
+        {
+          "Parroquia": "MACAS",
+          "cod_parr": 140150
+        },
+        {
+          "Parroquia": "ALSHI",
+          "cod_parr": 140151
+        },
+        {
+          "Parroquia": "GENERAL PROAÑO",
+          "cod_parr": 140153
+        },
+        {
+          "Parroquia": "SAN ISIDRO",
+          "cod_parr": 140156
+        },
+        {
+          "Parroquia": "SEVILLA DON BOSCO",
+          "cod_parr": 140157
+        },
+        {
+          "Parroquia": "SINAI",
+          "cod_parr": 140158
+        },
+        {
+          "Parroquia": "ZUÑA (ZUÑAC)",
+          "cod_parr": 140160
+        },
+        {
+          "Parroquia": "CUCHAENTZA",
+          "cod_parr": 140162
+        },
+        {
+          "Parroquia": "RIO BLANCO",
+          "cod_parr": 140164
+        }
+      ]
+    },
+    {
+      "Canton": "PABLO SEXTO",
+      "cod_cant": 1411,
+      "Parroquias": [
+        {
+          "Parroquia": "PABLO VI",
+          "cod_parr": 141150
+        }
+      ]
+    },
+    {
+      "Canton": "PALORA",
+      "cod_cant": 1404,
+      "Parroquias": [
+        {
+          "Parroquia": "PALORA (METZERA)",
+          "cod_parr": 140450
+        },
+        {
+          "Parroquia": "ARAPICOS",
+          "cod_parr": 140451
+        },
+        {
+          "Parroquia": "CUMANDA",
+          "cod_parr": 140452
+        },
+        {
+          "Parroquia": "SANGAY",
+          "cod_parr": 140454
+        },
+        {
+          "Parroquia": "16 DE AGOSTO",
+          "cod_parr": 140455
+        }
+      ]
+    },
+    {
+      "Canton": "SAN JUAN BOSCO",
+      "cod_cant": 1408,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN JUAN BOSCO",
+          "cod_parr": 140850
+        },
+        {
+          "Parroquia": "PAN DE AZUCAR",
+          "cod_parr": 140851
+        },
+        {
+          "Parroquia": "SAN CARLOS DE LIMON",
+          "cod_parr": 140852
+        },
+        {
+          "Parroquia": "SAN JACINTO DE WAKAMBEIS",
+          "cod_parr": 140853
+        },
+        {
+          "Parroquia": "SANTIAGO DE PANANZA",
+          "cod_parr": 140854
+        }
+      ]
+    },
+    {
+      "Canton": "SANTIAGO",
+      "cod_cant": 1405,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTIAGO DE MENDEZ",
+          "cod_parr": 140550
+        },
+        {
+          "Parroquia": "COPAL",
+          "cod_parr": 140551
+        },
+        {
+          "Parroquia": "CHUPIANZA",
+          "cod_parr": 140552
+        },
+        {
+          "Parroquia": "PATUCA",
+          "cod_parr": 140553
+        },
+        {
+          "Parroquia": "SAN LUIS DE EL ACHO",
+          "cod_parr": 140554
+        },
+        {
+          "Parroquia": "TAYUZA",
+          "cod_parr": 140556
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE CHINIMBIMI",
+          "cod_parr": 140557
+        }
+      ]
+    },
+    {
+      "Canton": "SUCUA",
+      "cod_cant": 1406,
+      "Parroquias": [
+        {
+          "Parroquia": "SUCUA",
+          "cod_parr": 140650
+        },
+        {
+          "Parroquia": "ASUNCION",
+          "cod_parr": 140651
+        },
+        {
+          "Parroquia": "HUAMBI",
+          "cod_parr": 140652
+        },
+        {
+          "Parroquia": "SANTA MARIANITA DE JESUS",
+          "cod_parr": 140655
+        }
+      ]
+    },
+    {
+      "Canton": "TAISHA",
+      "cod_cant": 1409,
+      "Parroquias": [
+        {
+          "Parroquia": "TAISHA",
+          "cod_parr": 140950
+        },
+        {
+          "Parroquia": "HUASAGA",
+          "cod_parr": 140951
+        },
+        {
+          "Parroquia": "MACUMA",
+          "cod_parr": 140952
+        },
+        {
+          "Parroquia": "TUUTINENTZA",
+          "cod_parr": 140953
+        }
+      ]
+    },
+    {
+      "Canton": "TIWINTZA",
+      "cod_cant": 1412,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTIAGO",
+          "cod_parr": 141250
+        },
+        {
+          "Parroquia": "SAN JOSE DE MORONA",
+          "cod_parr": 141251
+        }
+      ]
+    },
+    {
+      "Canton": "GUALAQUIZA",
+      "cod_cant": 1402,
+      "Parroquias": []
+    },
+    {
+      "Canton": "HUAMBOYA",
+      "cod_cant": 1407,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LIMON INDANZA",
+      "cod_cant": 1403,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LOGROÑO",
+      "cod_cant": 1410,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MORONA",
+      "cod_cant": 1401,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PABLO SEXTO",
+      "cod_cant": 1411,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALORA",
+      "cod_cant": 1404,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN JUAN BOSCO",
+      "cod_cant": 1408,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTIAGO",
+      "cod_cant": 1405,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SUCUA",
+      "cod_cant": 1406,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TAISHA",
+      "cod_cant": 1409,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TIWINTZA",
+      "cod_cant": 1412,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21b4f158c6ba82dbb9f"
+  },
+  "Provincia": "NAPO",
+  "cod_prov": 16,
+  "Cantones": [
+    {
+      "Canton": "ARCHIDONA",
+      "cod_cant": 1503,
+      "Parroquias": [
+        {
+          "Parroquia": "ARCHIDONA",
+          "cod_parr": 150350
+        },
+        {
+          "Parroquia": "COTUNDO",
+          "cod_parr": 150352
+        },
+        {
+          "Parroquia": "SAN PABLO DE USHPAYACU",
+          "cod_parr": 150354
+        }
+      ]
+    },
+    {
+      "Canton": "CARLOS JULIO AROSEMENA TOLA",
+      "cod_cant": 1509,
+      "Parroquias": [
+        {
+          "Parroquia": "CARLOS JULIO AROSEMENA T.",
+          "cod_parr": 150950
+        }
+      ]
+    },
+    {
+      "Canton": "EL CHACO",
+      "cod_cant": 1504,
+      "Parroquias": [
+        {
+          "Parroquia": "EL CHACO",
+          "cod_parr": 150450
+        },
+        {
+          "Parroquia": "GONZALO DIAZ DE PINEDA (EL BOMBON)",
+          "cod_parr": 150451
+        },
+        {
+          "Parroquia": "LINARES",
+          "cod_parr": 150452
+        },
+        {
+          "Parroquia": "OYACACHI",
+          "cod_parr": 150453
+        },
+        {
+          "Parroquia": "SANTA ROSA",
+          "cod_parr": 150454
+        },
+        {
+          "Parroquia": "SARDINAS",
+          "cod_parr": 150455
+        }
+      ]
+    },
+    {
+      "Canton": "QUIJOS",
+      "cod_cant": 1507,
+      "Parroquias": [
+        {
+          "Parroquia": "BAEZA",
+          "cod_parr": 150750
+        },
+        {
+          "Parroquia": "COSANGA",
+          "cod_parr": 150751
+        },
+        {
+          "Parroquia": "CUYUJA",
+          "cod_parr": 150752
+        },
+        {
+          "Parroquia": "PAPALLACTA",
+          "cod_parr": 150753
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE BORJA (VIRGILIO DAVILA)",
+          "cod_parr": 150754
+        },
+        {
+          "Parroquia": "SAN JOSE DE PAYAMINO",
+          "cod_parr": 150755
+        },
+        {
+          "Parroquia": "SUMACO",
+          "cod_parr": 150756
+        }
+      ]
+    },
+    {
+      "Canton": "TENA",
+      "cod_cant": 1501,
+      "Parroquias": [
+        {
+          "Parroquia": "TENA",
+          "cod_parr": 150150
+        },
+        {
+          "Parroquia": "AHUANO",
+          "cod_parr": 150151
+        },
+        {
+          "Parroquia": "CHONTAPUNTA",
+          "cod_parr": 150153
+        },
+        {
+          "Parroquia": "PANO",
+          "cod_parr": 150154
+        },
+        {
+          "Parroquia": "PUERTO MISAHUALLI",
+          "cod_parr": 150155
+        },
+        {
+          "Parroquia": "PUERTO NAPO",
+          "cod_parr": 150156
+        },
+        {
+          "Parroquia": "TALAG",
+          "cod_parr": 150157
+        }
+      ]
+    },
+    {
+      "Canton": "ARCHIDONA",
+      "cod_cant": 1503,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CARLOS JULIO AROSEMENA TOLA",
+      "cod_cant": 1509,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL CHACO",
+      "cod_cant": 1504,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUIJOS",
+      "cod_cant": 1507,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TENA",
+      "cod_cant": 1501,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21c4f158c6ba82dbba0"
+  },
+  "Provincia": "ORELLANA",
+  "cod_prov": 17,
+  "Cantones": [
+    {
+      "Canton": "AGUARICO",
+      "cod_cant": 2202,
+      "Parroquias": [
+        {
+          "Parroquia": "NUEVO ROCAFUERTE",
+          "cod_parr": 220250
+        },
+        {
+          "Parroquia": "CAPITAN AUGUSTO RIVADENEIRA",
+          "cod_parr": 220251
+        },
+        {
+          "Parroquia": "CONONACO",
+          "cod_parr": 220252
+        },
+        {
+          "Parroquia": "SANTA MARIA DE HUIRIRIMA",
+          "cod_parr": 220253
+        },
+        {
+          "Parroquia": "TIPUTINI",
+          "cod_parr": 220254
+        },
+        {
+          "Parroquia": "YASUNI",
+          "cod_parr": 220255
+        }
+      ]
+    },
+    {
+      "Canton": "FRANCISCO DE ORELLANA",
+      "cod_cant": 2201,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO FRANCISCO DE ORELLANA (COCA)",
+          "cod_parr": 220150
+        },
+        {
+          "Parroquia": "ALEJANDRO LABACA",
+          "cod_parr": 220151
+        },
+        {
+          "Parroquia": "DAYUMA",
+          "cod_parr": 220152
+        },
+        {
+          "Parroquia": "EL DORADO",
+          "cod_parr": 220153
+        },
+        {
+          "Parroquia": "EL EDEN",
+          "cod_parr": 220154
+        },
+        {
+          "Parroquia": "GARCIA MORENO",
+          "cod_parr": 220155
+        },
+        {
+          "Parroquia": "INES ARANGO",
+          "cod_parr": 220156
+        },
+        {
+          "Parroquia": "LA BELLEZA",
+          "cod_parr": 220157
+        },
+        {
+          "Parroquia": "NUEVO PARAISO",
+          "cod_parr": 220158
+        },
+        {
+          "Parroquia": "SAN JOSE DE GUAYUSA",
+          "cod_parr": 220159
+        },
+        {
+          "Parroquia": "SAN LUIS DE ARMENIA",
+          "cod_parr": 220160
+        },
+        {
+          "Parroquia": "TARACOA",
+          "cod_parr": 220161
+        }
+      ]
+    },
+    {
+      "Canton": "LA JOYA DE LOS SACHAS",
+      "cod_cant": 2203,
+      "Parroquias": [
+        {
+          "Parroquia": "LA JOYA DE LOS SACHAS",
+          "cod_parr": 220350
+        },
+        {
+          "Parroquia": "ENOKANQUI",
+          "cod_parr": 220351
+        },
+        {
+          "Parroquia": "LAGO SAN PEDRO",
+          "cod_parr": 220352
+        },
+        {
+          "Parroquia": "POMPEYA",
+          "cod_parr": 220353
+        },
+        {
+          "Parroquia": "RUMIPAMBA",
+          "cod_parr": 220354
+        },
+        {
+          "Parroquia": "SAN CARLOS",
+          "cod_parr": 220355
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN DEL COCA",
+          "cod_parr": 220356
+        },
+        {
+          "Parroquia": "TRES DE NOVIEMBRE",
+          "cod_parr": 220357
+        },
+        {
+          "Parroquia": "UNION MILAGREÑA",
+          "cod_parr": 220358
+        }
+      ]
+    },
+    {
+      "Canton": "LORETO",
+      "cod_cant": 2204,
+      "Parroquias": [
+        {
+          "Parroquia": "LORETO",
+          "cod_parr": 220450
+        },
+        {
+          "Parroquia": "AVILA",
+          "cod_parr": 220451
+        },
+        {
+          "Parroquia": "PUERTO MURIALDO",
+          "cod_parr": 220452
+        },
+        {
+          "Parroquia": "SAN JOSE DEL PAYAMINO",
+          "cod_parr": 220453
+        },
+        {
+          "Parroquia": "SAN JOSE DE DAHUANO",
+          "cod_parr": 220454
+        },
+        {
+          "Parroquia": "SAN VICENTE DE HUATICOCHA",
+          "cod_parr": 220455
+        }
+      ]
+    },
+    {
+      "Canton": "AGUARICO",
+      "cod_cant": 2202,
+      "Parroquias": []
+    },
+    {
+      "Canton": "FRANCISCO DE ORELLANA",
+      "cod_cant": 2201,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LA JOYA DE LOS SACHAS",
+      "cod_cant": 2203,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LORETO",
+      "cod_cant": 2204,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21c4f158c6ba82dbba1"
+  },
+  "Provincia": "PASTAZA",
+  "cod_prov": 18,
+  "Cantones": [
+    {
+      "Canton": "ARAJUNO",
+      "cod_cant": 1604,
+      "Parroquias": [
+        {
+          "Parroquia": "ARAJUNO",
+          "cod_parr": 160450
+        },
+        {
+          "Parroquia": "CURARAY",
+          "cod_parr": 160451
+        }
+      ]
+    },
+    {
+      "Canton": "MERA",
+      "cod_cant": 1602,
+      "Parroquias": [
+        {
+          "Parroquia": "MERA",
+          "cod_parr": 160250
+        },
+        {
+          "Parroquia": "MADRE TIERRA",
+          "cod_parr": 160251
+        },
+        {
+          "Parroquia": "SHELL",
+          "cod_parr": 160252
+        }
+      ]
+    },
+    {
+      "Canton": "PASTAZA",
+      "cod_cant": 1601,
+      "Parroquias": [
+        {
+          "Parroquia": "PUYO",
+          "cod_parr": 160150
+        },
+        {
+          "Parroquia": "CANELOS",
+          "cod_parr": 160152
+        },
+        {
+          "Parroquia": "DIEZ DE AGOSTO",
+          "cod_parr": 160154
+        },
+        {
+          "Parroquia": "FATIMA",
+          "cod_parr": 160155
+        },
+        {
+          "Parroquia": "MONTALVO (ANDOAS)",
+          "cod_parr": 160156
+        },
+        {
+          "Parroquia": "POMONA",
+          "cod_parr": 160157
+        },
+        {
+          "Parroquia": "RIO CORRIENTES",
+          "cod_parr": 160158
+        },
+        {
+          "Parroquia": "RIO TIGRE",
+          "cod_parr": 160159
+        },
+        {
+          "Parroquia": "SARAYACU",
+          "cod_parr": 160161
+        },
+        {
+          "Parroquia": "SIMON BOLIVAR",
+          "cod_parr": 160162
+        },
+        {
+          "Parroquia": "TARQUI",
+          "cod_parr": 160163
+        },
+        {
+          "Parroquia": "TENIENTE HUGO ORTIZ",
+          "cod_parr": 160164
+        },
+        {
+          "Parroquia": "VERACRUZ (INDILLAMA)",
+          "cod_parr": 160165
+        },
+        {
+          "Parroquia": "EL TRIUNFO",
+          "cod_parr": 160166
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA CLARA",
+      "cod_cant": 1603,
+      "Parroquias": [
+        {
+          "Parroquia": "SANTA CLARA",
+          "cod_parr": 160350
+        },
+        {
+          "Parroquia": "SAN JOSE",
+          "cod_parr": 160351
+        }
+      ]
+    },
+    {
+      "Canton": "ARAJUNO",
+      "cod_cant": 1604,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MERA",
+      "cod_cant": 1602,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PASTAZA",
+      "cod_cant": 1601,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA CLARA",
+      "cod_cant": 1603,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21d4f158c6ba82dbba2"
+  },
+  "Provincia": "PICHINCHA",
+  "cod_prov": 19,
+  "Cantones": [
+    {
+      "Canton": "CAYAMBE",
+      "cod_cant": 1702,
+      "Parroquias": [
+        {
+          "Parroquia": "AYORA",
+          "cod_parr": 170201
+        },
+        {
+          "Parroquia": "CAYAMBE",
+          "cod_parr": 170202
+        },
+        {
+          "Parroquia": "JUAN MONTALVO",
+          "cod_parr": 170203
+        },
+        {
+          "Parroquia": "CAYAMBE",
+          "cod_parr": 170250
+        },
+        {
+          "Parroquia": "ASCAZUBI",
+          "cod_parr": 170251
+        },
+        {
+          "Parroquia": "CANGAHUA",
+          "cod_parr": 170252
+        },
+        {
+          "Parroquia": "OLMEDO (PESILLO)",
+          "cod_parr": 170253
+        },
+        {
+          "Parroquia": "OTON",
+          "cod_parr": 170254
+        },
+        {
+          "Parroquia": "SANTA ROSA DE CUZUBAMBA",
+          "cod_parr": 170255
+        }
+      ]
+    },
+    {
+      "Canton": "MEJIA",
+      "cod_cant": 1703,
+      "Parroquias": [
+        {
+          "Parroquia": "MACHACHI",
+          "cod_parr": 170350
+        },
+        {
+          "Parroquia": "ALOAG",
+          "cod_parr": 170351
+        },
+        {
+          "Parroquia": "ALOASI",
+          "cod_parr": 170352
+        },
+        {
+          "Parroquia": "CUTUGLAHUA",
+          "cod_parr": 170353
+        },
+        {
+          "Parroquia": "EL CHAUPI",
+          "cod_parr": 170354
+        },
+        {
+          "Parroquia": "MANUEL CORNEJO ASTORGA (TANDAPI)",
+          "cod_parr": 170355
+        },
+        {
+          "Parroquia": "TAMBILLO",
+          "cod_parr": 170356
+        },
+        {
+          "Parroquia": "UYUMBICHO",
+          "cod_parr": 170357
+        }
+      ]
+    },
+    {
+      "Canton": "PEDRO MONCAYO",
+      "cod_cant": 1704,
+      "Parroquias": [
+        {
+          "Parroquia": "TABACUNDO",
+          "cod_parr": 170450
+        },
+        {
+          "Parroquia": "LA ESPERANZA",
+          "cod_parr": 170451
+        },
+        {
+          "Parroquia": "MALCHINGUI",
+          "cod_parr": 170452
+        },
+        {
+          "Parroquia": "TOCACHI",
+          "cod_parr": 170453
+        },
+        {
+          "Parroquia": "TUPIGACHI",
+          "cod_parr": 170454
+        }
+      ]
+    },
+    {
+      "Canton": "PEDRO VICENTE MALDONADO",
+      "cod_cant": 1708,
+      "Parroquias": [
+        {
+          "Parroquia": "PEDRO VICENTE MALDONADO",
+          "cod_parr": 170850
+        }
+      ]
+    },
+    {
+      "Canton": "PUERTO QUITO",
+      "cod_cant": 1709,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO QUITO",
+          "cod_parr": 170950
+        }
+      ]
+    },
+    {
+      "Canton": "QUITO",
+      "cod_cant": 1701,
+      "Parroquias": [
+        {
+          "Parroquia": "ALFARO (CHIMBACALLE)",
+          "cod_parr": 170101
+        },
+        {
+          "Parroquia": "BENALCAZAR",
+          "cod_parr": 170102
+        },
+        {
+          "Parroquia": "COTOCOLLAO",
+          "cod_parr": 170103
+        },
+        {
+          "Parroquia": "CHAUPICRUZ (LA CONCEPCION)",
+          "cod_parr": 170104
+        },
+        {
+          "Parroquia": "CHILLOGALLO",
+          "cod_parr": 170105
+        },
+        {
+          "Parroquia": "EL SALVADOR",
+          "cod_parr": 170106
+        },
+        {
+          "Parroquia": "GONZALEZ SUAREZ",
+          "cod_parr": 170107
+        },
+        {
+          "Parroquia": "GUAPULO",
+          "cod_parr": 170108
+        },
+        {
+          "Parroquia": "LA FLORESTA",
+          "cod_parr": 170109
+        },
+        {
+          "Parroquia": "LA LIBERTAD",
+          "cod_parr": 170110
+        },
+        {
+          "Parroquia": "LA MAGDALENA",
+          "cod_parr": 170111
+        },
+        {
+          "Parroquia": "LA VICENTINA",
+          "cod_parr": 170112
+        },
+        {
+          "Parroquia": "SAN BLAS",
+          "cod_parr": 170113
+        },
+        {
+          "Parroquia": "SAN MARCOS",
+          "cod_parr": 170114
+        },
+        {
+          "Parroquia": "SAN ROQUE",
+          "cod_parr": 170115
+        },
+        {
+          "Parroquia": "SAN SEBASTIAN",
+          "cod_parr": 170116
+        },
+        {
+          "Parroquia": "SANTA BARBARA",
+          "cod_parr": 170117
+        },
+        {
+          "Parroquia": "SANTA PRISCA",
+          "cod_parr": 170118
+        },
+        {
+          "Parroquia": "VILLA FLORA",
+          "cod_parr": 170119
+        },
+        {
+          "Parroquia": "CARCELEN",
+          "cod_parr": 170120
+        },
+        {
+          "Parroquia": "CHIMBACALLE",
+          "cod_parr": 170121
+        },
+        {
+          "Parroquia": "EL BATAN",
+          "cod_parr": 170122
+        },
+        {
+          "Parroquia": "EL BEATERIO",
+          "cod_parr": 170123
+        },
+        {
+          "Parroquia": "EL INCA",
+          "cod_parr": 170124
+        },
+        {
+          "Parroquia": "ELOY ALFARO",
+          "cod_parr": 170125
+        },
+        {
+          "Parroquia": "GUAMANI",
+          "cod_parr": 170126
+        },
+        {
+          "Parroquia": "LA CONCEPCION",
+          "cod_parr": 170127
+        },
+        {
+          "Parroquia": "LAS CUADRAS",
+          "cod_parr": 170128
+        },
+        {
+          "Parroquia": "ATAHUALPA (HABASPAMBA)",
+          "cod_parr": 170135
+        },
+        {
+          "Parroquia": "QUITO",
+          "cod_parr": 170150
+        },
+        {
+          "Parroquia": "ALANGASI",
+          "cod_parr": 170151
+        },
+        {
+          "Parroquia": "AMAGUAÑA",
+          "cod_parr": 170152
+        },
+        {
+          "Parroquia": "CALACALI",
+          "cod_parr": 170154
+        },
+        {
+          "Parroquia": "CALDERON (CARAPUNGO)",
+          "cod_parr": 170155
+        },
+        {
+          "Parroquia": "CONOCOTO",
+          "cod_parr": 170156
+        },
+        {
+          "Parroquia": "CUMBAYA",
+          "cod_parr": 170157
+        },
+        {
+          "Parroquia": "CHAVEZPAMBA",
+          "cod_parr": 170158
+        },
+        {
+          "Parroquia": "CHECA (CHILPA)",
+          "cod_parr": 170159
+        },
+        {
+          "Parroquia": "EL QUINCHE",
+          "cod_parr": 170160
+        },
+        {
+          "Parroquia": "GUALEA",
+          "cod_parr": 170161
+        },
+        {
+          "Parroquia": "GUANGOPOLO",
+          "cod_parr": 170162
+        },
+        {
+          "Parroquia": "GUAYLLABAMBA",
+          "cod_parr": 170163
+        },
+        {
+          "Parroquia": "LA MERCED",
+          "cod_parr": 170164
+        },
+        {
+          "Parroquia": "LLANO CHICO",
+          "cod_parr": 170165
+        },
+        {
+          "Parroquia": "LLOA",
+          "cod_parr": 170166
+        },
+        {
+          "Parroquia": "NANEGAL",
+          "cod_parr": 170168
+        },
+        {
+          "Parroquia": "NANEGALITO",
+          "cod_parr": 170169
+        },
+        {
+          "Parroquia": "NAYON",
+          "cod_parr": 170170
+        },
+        {
+          "Parroquia": "NONO",
+          "cod_parr": 170171
+        },
+        {
+          "Parroquia": "PACTO",
+          "cod_parr": 170172
+        },
+        {
+          "Parroquia": "PERUCHO",
+          "cod_parr": 170174
+        },
+        {
+          "Parroquia": "PIFO",
+          "cod_parr": 170175
+        },
+        {
+          "Parroquia": "PINTAG",
+          "cod_parr": 170176
+        },
+        {
+          "Parroquia": "POMASQUI",
+          "cod_parr": 170177
+        },
+        {
+          "Parroquia": "PUELLARO",
+          "cod_parr": 170178
+        },
+        {
+          "Parroquia": "PUEMBO",
+          "cod_parr": 170179
+        },
+        {
+          "Parroquia": "SAN ANTONIO",
+          "cod_parr": 170180
+        },
+        {
+          "Parroquia": "SAN JOSE DE MINAS",
+          "cod_parr": 170181
+        },
+        {
+          "Parroquia": "TABABELA",
+          "cod_parr": 170183
+        },
+        {
+          "Parroquia": "TUMBACO",
+          "cod_parr": 170184
+        },
+        {
+          "Parroquia": "YARUQUI",
+          "cod_parr": 170185
+        },
+        {
+          "Parroquia": "ZAMBIZA",
+          "cod_parr": 170186
+        }
+      ]
+    },
+    {
+      "Canton": "RUMIÑAHUI",
+      "cod_cant": 1705,
+      "Parroquias": [
+        {
+          "Parroquia": "SANGOLQUI",
+          "cod_parr": 170501
+        },
+        {
+          "Parroquia": "SAN PEDRO DE TABOADA",
+          "cod_parr": 170502
+        },
+        {
+          "Parroquia": "SAN RAFAEL",
+          "cod_parr": 170503
+        },
+        {
+          "Parroquia": "SANGOLQUI",
+          "cod_parr": 170550
+        },
+        {
+          "Parroquia": "COTOGCHOA",
+          "cod_parr": 170551
+        },
+        {
+          "Parroquia": "RUMIPAMBA",
+          "cod_parr": 170552
+        }
+      ]
+    },
+    {
+      "Canton": "SAN MIGUEL DE LOS BANCOS",
+      "cod_cant": 1707,
+      "Parroquias": [
+        {
+          "Parroquia": "SAN MIGUEL DE LOS BANCOS",
+          "cod_parr": 170750
+        },
+        {
+          "Parroquia": "MINDO",
+          "cod_parr": 170751
+        }
+      ]
+    },
+    {
+      "Canton": "CAYAMBE",
+      "cod_cant": 1702,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MEJIA",
+      "cod_cant": 1703,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PEDRO MONCAYO",
+      "cod_cant": 1704,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PEDRO VICENTE MALDONADO",
+      "cod_cant": 1708,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUERTO QUITO",
+      "cod_cant": 1709,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUITO",
+      "cod_cant": 1701,
+      "Parroquias": []
+    },
+    {
+      "Canton": "RUMIÑAHUI",
+      "cod_cant": 1705,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN MIGUEL DE LOS BANCOS",
+      "cod_cant": 1707,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21d4f158c6ba82dbba3"
+  },
+  "Provincia": "SANTA ELENA",
+  "cod_prov": 20,
+  "Cantones": [
+    {
+      "Canton": "LA LIBERTAD",
+      "cod_cant": 2402,
+      "Parroquias": [
+        {
+          "Parroquia": "LA LIBERTAD",
+          "cod_parr": 240250
+        }
+      ]
+    },
+    {
+      "Canton": "SALINAS",
+      "cod_cant": 2403,
+      "Parroquias": [
+        {
+          "Parroquia": "CARLOS ESPINOZA LARREA",
+          "cod_parr": 240301
+        },
+        {
+          "Parroquia": "GRAL ALBERTO ENRIQUEZ GALLO",
+          "cod_parr": 240302
+        },
+        {
+          "Parroquia": "VICENTE ROCAFUERTE",
+          "cod_parr": 240303
+        },
+        {
+          "Parroquia": "SANTA ROSA",
+          "cod_parr": 240304
+        },
+        {
+          "Parroquia": "SALINAS",
+          "cod_parr": 240350
+        },
+        {
+          "Parroquia": "ANCONCITO",
+          "cod_parr": 240351
+        },
+        {
+          "Parroquia": "JOSÉ LUIS TAMAYO",
+          "cod_parr": 240352
+        }
+      ]
+    },
+    {
+      "Canton": "SANTA ELENA",
+      "cod_cant": 2401,
+      "Parroquias": [
+        {
+          "Parroquia": "BALLENITA",
+          "cod_parr": 240101
+        },
+        {
+          "Parroquia": "SANTA ELENA",
+          "cod_parr": 240102
+        },
+        {
+          "Parroquia": "SANTA ELENA",
+          "cod_parr": 240150
+        },
+        {
+          "Parroquia": "ATAHUALPA",
+          "cod_parr": 240151
+        },
+        {
+          "Parroquia": "COLONCHE",
+          "cod_parr": 240152
+        },
+        {
+          "Parroquia": "CHANDUY",
+          "cod_parr": 240153
+        },
+        {
+          "Parroquia": "MANGLARALTO",
+          "cod_parr": 240154
+        },
+        {
+          "Parroquia": "SIMÓN BOLÍVAR (JULIO MORENO)",
+          "cod_parr": 240155
+        },
+        {
+          "Parroquia": "SAN JOSÉ DE ANCÓN",
+          "cod_parr": 240156
+        }
+      ]
+    },
+    {
+      "Canton": "LA LIBERTAD",
+      "cod_cant": 2402,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SALINAS",
+      "cod_cant": 2403,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTA ELENA",
+      "cod_cant": 2401,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21d4f158c6ba82dbba4"
+  },
+  "Provincia": "STO DOMINGO DE LOS TSACHILAS",
+  "cod_prov": 21,
+  "Cantones": [
+    {
+      "Canton": "SANTO DOMINGO",
+      "cod_cant": 2301,
+      "Parroquias": [
+        {
+          "Parroquia": "ABRAHAM CALAZACÓN",
+          "cod_parr": 230101
+        },
+        {
+          "Parroquia": "BOMBOLI",
+          "cod_parr": 230102
+        },
+        {
+          "Parroquia": "CHIGUILPE",
+          "cod_parr": 230103
+        },
+        {
+          "Parroquia": "RÍO TOACHI",
+          "cod_parr": 230104
+        },
+        {
+          "Parroquia": "RÍO VERDE",
+          "cod_parr": 230105
+        },
+        {
+          "Parroquia": "SANTO DOMINGO DE LOS COLORADOS",
+          "cod_parr": 230106
+        },
+        {
+          "Parroquia": "ZARACAY",
+          "cod_parr": 230107
+        },
+        {
+          "Parroquia": "SANTO DOMINGO",
+          "cod_parr": 230150
+        },
+        {
+          "Parroquia": "ALLURIQUÍN",
+          "cod_parr": 230151
+        },
+        {
+          "Parroquia": "PUERTO LIMÓN",
+          "cod_parr": 230152
+        },
+        {
+          "Parroquia": "LUZ DE AMÉRICA",
+          "cod_parr": 230153
+        },
+        {
+          "Parroquia": "SAN JACINTO DEL BUA",
+          "cod_parr": 230154
+        },
+        {
+          "Parroquia": "VALLE HERMOSO",
+          "cod_parr": 230155
+        },
+        {
+          "Parroquia": "EL ESFUERZO",
+          "cod_parr": 230156
+        },
+        {
+          "Parroquia": "SANTA MARÍA DEL TOACHI",
+          "cod_parr": 230157
+        }
+      ]
+    },
+    {
+      "Canton": "SANTO DOMINGO",
+      "cod_cant": 2301,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21e4f158c6ba82dbba5"
+  },
+  "Provincia": "SUCUMBIOS",
+  "cod_prov": 22,
+  "Cantones": [
+    {
+      "Canton": "CASCALES",
+      "cod_cant": 2106,
+      "Parroquias": [
+        {
+          "Parroquia": "EL DORADO DE CASCALES",
+          "cod_parr": 210650
+        },
+        {
+          "Parroquia": "SANTA ROSA DE SUCUMBIOS",
+          "cod_parr": 210651
+        },
+        {
+          "Parroquia": "SEVILLA",
+          "cod_parr": 210652
+        }
+      ]
+    },
+    {
+      "Canton": "CUYABENO",
+      "cod_cant": 2107,
+      "Parroquias": [
+        {
+          "Parroquia": "TARAPOA",
+          "cod_parr": 210750
+        },
+        {
+          "Parroquia": "CUYABENO",
+          "cod_parr": 210751
+        },
+        {
+          "Parroquia": "AGUAS NEGRAS",
+          "cod_parr": 210752
+        }
+      ]
+    },
+    {
+      "Canton": "GONZALO PIZARRO",
+      "cod_cant": 2102,
+      "Parroquias": [
+        {
+          "Parroquia": "EL DORADO DE CASCALES (LUMBAQUI)",
+          "cod_parr": 210250
+        },
+        {
+          "Parroquia": "EL REVENTADOR",
+          "cod_parr": 210251
+        },
+        {
+          "Parroquia": "GONZALO PIZARRO",
+          "cod_parr": 210252
+        },
+        {
+          "Parroquia": "PUERTO LIBRE",
+          "cod_parr": 210254
+        }
+      ]
+    },
+    {
+      "Canton": "LAGO AGRIO",
+      "cod_cant": 2101,
+      "Parroquias": [
+        {
+          "Parroquia": "NUEVA LOJA",
+          "cod_parr": 210150
+        },
+        {
+          "Parroquia": "DURENO",
+          "cod_parr": 210152
+        },
+        {
+          "Parroquia": "GENERAL FARFAN",
+          "cod_parr": 210153
+        },
+        {
+          "Parroquia": "EL ENO",
+          "cod_parr": 210155
+        },
+        {
+          "Parroquia": "PACAYACU",
+          "cod_parr": 210156
+        },
+        {
+          "Parroquia": "JAMBELI",
+          "cod_parr": 210157
+        },
+        {
+          "Parroquia": "SANTA CECILIA",
+          "cod_parr": 210158
+        }
+      ]
+    },
+    {
+      "Canton": "PUTUMAYO",
+      "cod_cant": 2103,
+      "Parroquias": [
+        {
+          "Parroquia": "PUERTO EL CARMEN DEL PUTUMAYO",
+          "cod_parr": 210350
+        },
+        {
+          "Parroquia": "PALMA ROJA",
+          "cod_parr": 210351
+        },
+        {
+          "Parroquia": "PUERTO BOLIVAR (PUERTO MONTUFAR)",
+          "cod_parr": 210352
+        },
+        {
+          "Parroquia": "PUERTO RODRIGUEZ",
+          "cod_parr": 210353
+        },
+        {
+          "Parroquia": "SANTA ELENA",
+          "cod_parr": 210354
+        }
+      ]
+    },
+    {
+      "Canton": "SHUSHUFINDI",
+      "cod_cant": 2104,
+      "Parroquias": [
+        {
+          "Parroquia": "SHUSHUFINDI",
+          "cod_parr": 210450
+        },
+        {
+          "Parroquia": "LIMONCOCHA",
+          "cod_parr": 210451
+        },
+        {
+          "Parroquia": "PAÑACOCHA",
+          "cod_parr": 210452
+        },
+        {
+          "Parroquia": "SAN ROQUE",
+          "cod_parr": 210453
+        },
+        {
+          "Parroquia": "SAN PEDRO DE LOS COFANES",
+          "cod_parr": 210454
+        },
+        {
+          "Parroquia": "SIETE DE JULIO",
+          "cod_parr": 210455
+        }
+      ]
+    },
+    {
+      "Canton": "SUCUMBIOS",
+      "cod_cant": 2105,
+      "Parroquias": [
+        {
+          "Parroquia": "LA BONITA",
+          "cod_parr": 210550
+        },
+        {
+          "Parroquia": "EL PLAYON DE SAN FRANCISCO",
+          "cod_parr": 210551
+        },
+        {
+          "Parroquia": "LA SOFIA",
+          "cod_parr": 210552
+        },
+        {
+          "Parroquia": "ROSA FLORIDA",
+          "cod_parr": 210553
+        },
+        {
+          "Parroquia": "SANTA BARBARA",
+          "cod_parr": 210554
+        }
+      ]
+    },
+    {
+      "Canton": "CASCALES",
+      "cod_cant": 2106,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CUYABENO",
+      "cod_cant": 2107,
+      "Parroquias": []
+    },
+    {
+      "Canton": "GONZALO PIZARRO",
+      "cod_cant": 2102,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LAGO AGRIO",
+      "cod_cant": 2101,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PUTUMAYO",
+      "cod_cant": 2103,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SHUSHUFINDI",
+      "cod_cant": 2104,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SUCUMBIOS",
+      "cod_cant": 2105,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21e4f158c6ba82dbba6"
+  },
+  "Provincia": "TUNGURAHUA",
+  "cod_prov": 23,
+  "Cantones": [
+    {
+      "Canton": "AMBATO",
+      "cod_cant": 1801,
+      "Parroquias": [
+        {
+          "Parroquia": "ATOCHA - FICOA",
+          "cod_parr": 180101
+        },
+        {
+          "Parroquia": "CELIANO MONGE",
+          "cod_parr": 180102
+        },
+        {
+          "Parroquia": "HUACHI CHICO",
+          "cod_parr": 180103
+        },
+        {
+          "Parroquia": "HUACHI LORETO",
+          "cod_parr": 180104
+        },
+        {
+          "Parroquia": "LA MERCED",
+          "cod_parr": 180105
+        },
+        {
+          "Parroquia": "LA PENINSULA",
+          "cod_parr": 180106
+        },
+        {
+          "Parroquia": "LA MATRIZ",
+          "cod_parr": 180107
+        },
+        {
+          "Parroquia": "PISHILATA",
+          "cod_parr": 180108
+        },
+        {
+          "Parroquia": "SAN FRANCISCO",
+          "cod_parr": 180109
+        },
+        {
+          "Parroquia": "AMBATO",
+          "cod_parr": 180150
+        },
+        {
+          "Parroquia": "AMBATILLO",
+          "cod_parr": 180151
+        },
+        {
+          "Parroquia": "ATAHUALPA (CHISALATA)",
+          "cod_parr": 180152
+        },
+        {
+          "Parroquia": "AUGUSTO N. MARTINEZ (MUNDUGLEO)",
+          "cod_parr": 180153
+        },
+        {
+          "Parroquia": "CONSTANTINO FERNANDEZ",
+          "cod_parr": 180154
+        },
+        {
+          "Parroquia": "HUACHI GRANDE",
+          "cod_parr": 180155
+        },
+        {
+          "Parroquia": "IZAMBA",
+          "cod_parr": 180156
+        },
+        {
+          "Parroquia": "JUAN BENIGNO VELA",
+          "cod_parr": 180157
+        },
+        {
+          "Parroquia": "MONTALVO",
+          "cod_parr": 180158
+        },
+        {
+          "Parroquia": "PASA",
+          "cod_parr": 180159
+        },
+        {
+          "Parroquia": "PICAIGUA",
+          "cod_parr": 180160
+        },
+        {
+          "Parroquia": "PILAGUIN (PILAHUIN)",
+          "cod_parr": 180161
+        },
+        {
+          "Parroquia": "QUISAPINCHA (QUIZAPINCHA)",
+          "cod_parr": 180162
+        },
+        {
+          "Parroquia": "SAN BARTOLOME DE PINLLOG",
+          "cod_parr": 180163
+        },
+        {
+          "Parroquia": "SAN FERNANDO (PASA SAN FERNANDO)",
+          "cod_parr": 180164
+        },
+        {
+          "Parroquia": "SANTA ROSA",
+          "cod_parr": 180165
+        },
+        {
+          "Parroquia": "TOTORAS",
+          "cod_parr": 180166
+        },
+        {
+          "Parroquia": "CUNCHIBAMBA",
+          "cod_parr": 180167
+        },
+        {
+          "Parroquia": "UNAMUNCHO",
+          "cod_parr": 180168
+        }
+      ]
+    },
+    {
+      "Canton": "BAÑOS",
+      "cod_cant": 1802,
+      "Parroquias": [
+        {
+          "Parroquia": "BAÑOS DE AGUA SANTA",
+          "cod_parr": 180250
+        },
+        {
+          "Parroquia": "LLIGUA",
+          "cod_parr": 180251
+        },
+        {
+          "Parroquia": "RIO NEGRO",
+          "cod_parr": 180252
+        },
+        {
+          "Parroquia": "RIO VERDE",
+          "cod_parr": 180253
+        },
+        {
+          "Parroquia": "ULBA",
+          "cod_parr": 180254
+        }
+      ]
+    },
+    {
+      "Canton": "CEVALLOS",
+      "cod_cant": 1803,
+      "Parroquias": [
+        {
+          "Parroquia": "CEVALLOS",
+          "cod_parr": 180350
+        }
+      ]
+    },
+    {
+      "Canton": "MOCHA",
+      "cod_cant": 1804,
+      "Parroquias": [
+        {
+          "Parroquia": "MOCHA",
+          "cod_parr": 180450
+        },
+        {
+          "Parroquia": "PINGUILI",
+          "cod_parr": 180451
+        }
+      ]
+    },
+    {
+      "Canton": "PATATE",
+      "cod_cant": 1805,
+      "Parroquias": [
+        {
+          "Parroquia": "PATATE",
+          "cod_parr": 180550
+        },
+        {
+          "Parroquia": "EL TRIUNFO",
+          "cod_parr": 180551
+        },
+        {
+          "Parroquia": "LOS ANDES",
+          "cod_parr": 180552
+        },
+        {
+          "Parroquia": "SUCRE",
+          "cod_parr": 180553
+        }
+      ]
+    },
+    {
+      "Canton": "QUERO",
+      "cod_cant": 1806,
+      "Parroquias": [
+        {
+          "Parroquia": "QUERO",
+          "cod_parr": 180650
+        },
+        {
+          "Parroquia": "RUMIPAMBA",
+          "cod_parr": 180651
+        },
+        {
+          "Parroquia": "YANAYACU - MOCHAPATA",
+          "cod_parr": 180652
+        }
+      ]
+    },
+    {
+      "Canton": "SAN PEDRO DE PELILEO",
+      "cod_cant": 1807,
+      "Parroquias": [
+        {
+          "Parroquia": "PELILEO",
+          "cod_parr": 180701
+        },
+        {
+          "Parroquia": "PELILEO GRANDE",
+          "cod_parr": 180702
+        },
+        {
+          "Parroquia": "PELILEO",
+          "cod_parr": 180750
+        },
+        {
+          "Parroquia": "BENITEZ (PACHANLICA)",
+          "cod_parr": 180751
+        },
+        {
+          "Parroquia": "BOLIVAR",
+          "cod_parr": 180752
+        },
+        {
+          "Parroquia": "COTALO",
+          "cod_parr": 180753
+        },
+        {
+          "Parroquia": "CHIQUICHA",
+          "cod_parr": 180754
+        },
+        {
+          "Parroquia": "EL ROSARIO (RUMICHACA)",
+          "cod_parr": 180755
+        },
+        {
+          "Parroquia": "GARCIA MORENO (CHUMAQUI)",
+          "cod_parr": 180756
+        },
+        {
+          "Parroquia": "GUAMBALO (HUAMBALO)",
+          "cod_parr": 180757
+        },
+        {
+          "Parroquia": "SALASACA",
+          "cod_parr": 180758
+        }
+      ]
+    },
+    {
+      "Canton": "SANTIAGO DE PILLARO",
+      "cod_cant": 1808,
+      "Parroquias": [
+        {
+          "Parroquia": "CIUDAD NUEVA",
+          "cod_parr": 180801
+        },
+        {
+          "Parroquia": "PILLARO",
+          "cod_parr": 180802
+        },
+        {
+          "Parroquia": "PILLARO",
+          "cod_parr": 180850
+        },
+        {
+          "Parroquia": "BAQUERIZO MORENO",
+          "cod_parr": 180851
+        },
+        {
+          "Parroquia": "EMILIO MARIA TERAN (RUMIPAMBA)",
+          "cod_parr": 180852
+        },
+        {
+          "Parroquia": "MARCOS ESPINEL (CHACATA)",
+          "cod_parr": 180853
+        },
+        {
+          "Parroquia": "PRESIDENTE URBINA (CHAGRAPAMBA-PATZUCUL)",
+          "cod_parr": 180854
+        },
+        {
+          "Parroquia": "SAN ANDRES",
+          "cod_parr": 180855
+        },
+        {
+          "Parroquia": "SAN JOSE DE POALO",
+          "cod_parr": 180856
+        },
+        {
+          "Parroquia": "SAN MIGUELITO",
+          "cod_parr": 180857
+        }
+      ]
+    },
+    {
+      "Canton": "TISALEO",
+      "cod_cant": 1809,
+      "Parroquias": [
+        {
+          "Parroquia": "TISALEO",
+          "cod_parr": 180950
+        },
+        {
+          "Parroquia": "QUINCHICOTO",
+          "cod_parr": 180951
+        }
+      ]
+    },
+    {
+      "Canton": "AMBATO",
+      "cod_cant": 1801,
+      "Parroquias": []
+    },
+    {
+      "Canton": "BAÑOS",
+      "cod_cant": 1802,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CEVALLOS",
+      "cod_cant": 1803,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MOCHA",
+      "cod_cant": 1804,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PATATE",
+      "cod_cant": 1805,
+      "Parroquias": []
+    },
+    {
+      "Canton": "QUERO",
+      "cod_cant": 1806,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SAN PEDRO DE PELILEO",
+      "cod_cant": 1807,
+      "Parroquias": []
+    },
+    {
+      "Canton": "SANTIAGO DE PILLARO",
+      "cod_cant": 1808,
+      "Parroquias": []
+    },
+    {
+      "Canton": "TISALEO",
+      "cod_cant": 1809,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21f4f158c6ba82dbba7"
+  },
+  "Provincia": "ZAMORA CHINCHIPE",
+  "cod_prov": 24,
+  "Cantones": [
+    {
+      "Canton": "CENTINELA DEL CONDOR",
+      "cod_cant": 1907,
+      "Parroquias": [
+        {
+          "Parroquia": "ZUMBI",
+          "cod_parr": 190750
+        }
+      ]
+    },
+    {
+      "Canton": "CHINCHIPE",
+      "cod_cant": 1902,
+      "Parroquias": [
+        {
+          "Parroquia": "ZUMBA",
+          "cod_parr": 190250
+        },
+        {
+          "Parroquia": "CHITO",
+          "cod_parr": 190251
+        },
+        {
+          "Parroquia": "EL CHORRO",
+          "cod_parr": 190252
+        },
+        {
+          "Parroquia": "LA CHONTA",
+          "cod_parr": 190254
+        },
+        {
+          "Parroquia": "PUCAPAMBA",
+          "cod_parr": 190256
+        },
+        {
+          "Parroquia": "SAN ANDRÉS",
+          "cod_parr": 190259
+        }
+      ]
+    },
+    {
+      "Canton": "EL PANGUI",
+      "cod_cant": 1906,
+      "Parroquias": [
+        {
+          "Parroquia": "EL PANGUI",
+          "cod_parr": 190650
+        },
+        {
+          "Parroquia": "EL GUISMI",
+          "cod_parr": 190651
+        },
+        {
+          "Parroquia": "PACHICUTZA",
+          "cod_parr": 190652
+        },
+        {
+          "Parroquia": "TUNDAYME",
+          "cod_parr": 190653
+        }
+      ]
+    },
+    {
+      "Canton": "NANGARITZA",
+      "cod_cant": 1903,
+      "Parroquias": [
+        {
+          "Parroquia": "GUAYZIMI",
+          "cod_parr": 190350
+        },
+        {
+          "Parroquia": "ZURMI",
+          "cod_parr": 190351
+        }
+      ]
+    },
+    {
+      "Canton": "PALANDA",
+      "cod_cant": 1908,
+      "Parroquias": [
+        {
+          "Parroquia": "PALANDA",
+          "cod_parr": 190850
+        },
+        {
+          "Parroquia": "EL PORVENIR DEL CARMEN",
+          "cod_parr": 190851
+        },
+        {
+          "Parroquia": "SAN FRANCISCO DE VERGEL",
+          "cod_parr": 190852
+        },
+        {
+          "Parroquia": "VALLADOLID",
+          "cod_parr": 190853
+        }
+      ]
+    },
+    {
+      "Canton": "PAQUISHA",
+      "cod_cant": 1909,
+      "Parroquias": [
+        {
+          "Parroquia": "PAQUISHA",
+          "cod_parr": 190950
+        },
+        {
+          "Parroquia": "BELLAVISTA",
+          "cod_parr": 190951
+        },
+        {
+          "Parroquia": "NUEVO QUITO",
+          "cod_parr": 190952
+        }
+      ]
+    },
+    {
+      "Canton": "YACUAMBI",
+      "cod_cant": 1904,
+      "Parroquias": [
+        {
+          "Parroquia": "28 DE MAYO (SAN JOSE DE YACUAMBI)",
+          "cod_parr": 190450
+        },
+        {
+          "Parroquia": "LA PAZ",
+          "cod_parr": 190451
+        },
+        {
+          "Parroquia": "TUTUPALI",
+          "cod_parr": 190452
+        }
+      ]
+    },
+    {
+      "Canton": "YANTZAZA",
+      "cod_cant": 1905,
+      "Parroquias": [
+        {
+          "Parroquia": "YANZATZA",
+          "cod_parr": 190550
+        },
+        {
+          "Parroquia": "CHICAÑA",
+          "cod_parr": 190551
+        },
+        {
+          "Parroquia": "LOS ENCUENTROS",
+          "cod_parr": 190553
+        }
+      ]
+    },
+    {
+      "Canton": "ZAMORA",
+      "cod_cant": 1901,
+      "Parroquias": [
+        {
+          "Parroquia": "LIMON",
+          "cod_parr": 190101
+        },
+        {
+          "Parroquia": "ZAMORA",
+          "cod_parr": 190102
+        },
+        {
+          "Parroquia": "ZAMORA",
+          "cod_parr": 190150
+        },
+        {
+          "Parroquia": "CUMBARATZA",
+          "cod_parr": 190151
+        },
+        {
+          "Parroquia": "GUADALUPE",
+          "cod_parr": 190152
+        },
+        {
+          "Parroquia": "IMBANA (LA VICTORIA DE IMBANA)",
+          "cod_parr": 190153
+        },
+        {
+          "Parroquia": "SABANILLA",
+          "cod_parr": 190155
+        },
+        {
+          "Parroquia": "TIMBARA",
+          "cod_parr": 190156
+        },
+        {
+          "Parroquia": "SAN CARLOS DE LAS MINAS",
+          "cod_parr": 190158
+        }
+      ]
+    },
+    {
+      "Canton": "CENTINELA DEL CONDOR",
+      "cod_cant": 1907,
+      "Parroquias": []
+    },
+    {
+      "Canton": "CHINCHIPE",
+      "cod_cant": 1902,
+      "Parroquias": []
+    },
+    {
+      "Canton": "EL PANGUI",
+      "cod_cant": 1906,
+      "Parroquias": []
+    },
+    {
+      "Canton": "NANGARITZA",
+      "cod_cant": 1903,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PALANDA",
+      "cod_cant": 1908,
+      "Parroquias": []
+    },
+    {
+      "Canton": "PAQUISHA",
+      "cod_cant": 1909,
+      "Parroquias": []
+    },
+    {
+      "Canton": "YACUAMBI",
+      "cod_cant": 1904,
+      "Parroquias": []
+    },
+    {
+      "Canton": "YANTZAZA",
+      "cod_cant": 1905,
+      "Parroquias": []
+    },
+    {
+      "Canton": "ZAMORA",
+      "cod_cant": 1901,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c21f4f158c6ba82dbba8"
+  },
+  "Provincia": "ZONA NO DELIMITADA",
+  "cod_prov": 90,
+  "Cantones": [
+    {
+      "Canton": "EL PIEDRERO",
+      "cod_cant": 9004,
+      "Parroquias": []
+    },
+    {
+      "Canton": "LAS GOLONDRINAS",
+      "cod_cant": 9001,
+      "Parroquias": []
+    },
+    {
+      "Canton": "MANGA DEL CURA",
+      "cod_cant": 9003,
+      "Parroquias": []
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f07c41f4f158c6ba82dbbaa"
+  },
+  "Provincia": "AZUAY",
+  "cod_prov": 1,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4204f158c6ba82dbbab"
+  },
+  "Provincia": "BOLIVAR",
+  "cod_prov": 2,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4204f158c6ba82dbbac"
+  },
+  "Provincia": "CAÑAR",
+  "cod_prov": 3,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4214f158c6ba82dbbad"
+  },
+  "Provincia": "CARCHI",
+  "cod_prov": 4,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4214f158c6ba82dbbae"
+  },
+  "Provincia": "CHIMBORAZO",
+  "cod_prov": 5,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4214f158c6ba82dbbaf"
+  },
+  "Provincia": "COTOPAXI",
+  "cod_prov": 6,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4214f158c6ba82dbbb0"
+  },
+  "Provincia": "EL ORO",
+  "cod_prov": 7,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4224f158c6ba82dbbb1"
+  },
+  "Provincia": "ESMERALDAS",
+  "cod_prov": 8,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4224f158c6ba82dbbb2"
+  },
+  "Provincia": "GALAPAGOS",
+  "cod_prov": 9,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4224f158c6ba82dbbb3"
+  },
+  "Provincia": "GUAYAS",
+  "cod_prov": 10,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4234f158c6ba82dbbb4"
+  },
+  "Provincia": "IMBABURA",
+  "cod_prov": 11,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4234f158c6ba82dbbb5"
+  },
+  "Provincia": "LOJA",
+  "cod_prov": 12,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4234f158c6ba82dbbb6"
+  },
+  "Provincia": "LOS RIOS",
+  "cod_prov": 13,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4244f158c6ba82dbbb7"
+  },
+  "Provincia": "MANABI",
+  "cod_prov": 14,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4244f158c6ba82dbbb8"
+  },
+  "Provincia": "MORONA SANTIAGO",
+  "cod_prov": 15,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4244f158c6ba82dbbb9"
+  },
+  "Provincia": "NAPO",
+  "cod_prov": 16,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4244f158c6ba82dbbba"
+  },
+  "Provincia": "ORELLANA",
+  "cod_prov": 17,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4244f158c6ba82dbbbb"
+  },
+  "Provincia": "PASTAZA",
+  "cod_prov": 18,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4254f158c6ba82dbbbc"
+  },
+  "Provincia": "PICHINCHA",
+  "cod_prov": 19,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4254f158c6ba82dbbbd"
+  },
+  "Provincia": "SANTA ELENA",
+  "cod_prov": 20,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4254f158c6ba82dbbbe"
+  },
+  "Provincia": "STO DOMINGO DE LOS TSACHILAS",
+  "cod_prov": 21,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4254f158c6ba82dbbbf"
+  },
+  "Provincia": "SUCUMBIOS",
+  "cod_prov": 22,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4254f158c6ba82dbbc0"
+  },
+  "Provincia": "TUNGURAHUA",
+  "cod_prov": 23,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4264f158c6ba82dbbc1"
+  },
+  "Provincia": "ZAMORA CHINCHIPE",
+  "cod_prov": 24,
+  "Cantones": []
+},{
+  "_id": {
+    "$oid": "5f07c4264f158c6ba82dbbc2"
+  },
+  "Provincia": "ZONA NO DELIMITADA",
+  "cod_prov": 90,
+  "Cantones": []
+}]

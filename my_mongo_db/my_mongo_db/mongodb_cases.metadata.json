@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"my_mongo_db.mongodb_cases"}],"uuid":"0dfd3c7fe4924e49996cd67f21b70ec2"}
