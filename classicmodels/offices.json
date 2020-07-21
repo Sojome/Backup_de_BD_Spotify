@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "5f1679f17106fe1c2c083da4"
+  },
+  "officeCode": 1,
+  "addressLine1": "100 Market Street",
+  "addressLine2": "Suite 300",
+  "city": "San Francisco",
+  "state": "CA",
+  "postalCode": "94080",
+  "country": "USA",
+  "territory": "NA",
+  "employees": [
+    {
+      "lastName": "Murphy",
+      "firstName": "Diane",
+      "extension": "x5800",
+      "email": "dmurphy@classicmodelcars.com",
+      "jobTitle": "President"
+    },
+    {
+      "lastName": "Thompson",
+      "firstName": "Leslie",
+      "extension": "x4065",
+      "email": "lthompson@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    },
+    {
+      "lastName": "Jennings",
+      "firstName": "Leslie",
+      "extension": "x3291",
+      "email": "ljennings@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    },
+    {
+      "lastName": "Bow",
+      "firstName": "Anthony",
+      "extension": "x5428",
+      "email": "abow@classicmodelcars.com",
+      "jobTitle": "Sales Manager (NA)",
+      "reportsTo": 1056
+    },
+    {
+      "lastName": "Firrelli",
+      "firstName": "Jeff",
+      "extension": "x9273",
+      "email": "jfirrelli@classicmodelcars.com",
+      "jobTitle": "VP Marketing",
+      "reportsTo": 1002
+    },
+    {
+      "lastName": "Patterson",
+      "firstName": "Mary",
+      "extension": "x4611",
+      "email": "mpatterso@classicmodelcars.com",
+      "jobTitle": "VP Sales",
+      "reportsTo": 1002
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f47106fe1c2c083da5"
+  },
+  "officeCode": 2,
+  "addressLine1": "1550 Court Place",
+  "addressLine2": "Suite 102",
+  "city": "Boston",
+  "state": "MA",
+  "postalCode": "02107",
+  "country": "USA",
+  "territory": "NA",
+  "employees": [
+    {
+      "lastName": "Firrelli",
+      "firstName": "Julie",
+      "extension": "x2173",
+      "email": "jfirrelli@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    },
+    {
+      "lastName": "Patterson",
+      "firstName": "Steve",
+      "extension": "x4334",
+      "email": "spatterson@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f47106fe1c2c083da6"
+  },
+  "officeCode": 3,
+  "addressLine1": "523 East 53rd Street",
+  "addressLine2": "apt. 5A",
+  "city": "NYC",
+  "state": "NY",
+  "postalCode": "10022",
+  "country": "USA",
+  "territory": "NA",
+  "employees": [
+    {
+      "lastName": "Tseng",
+      "firstName": "Foon Yue",
+      "extension": "x2248",
+      "email": "ftseng@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    },
+    {
+      "lastName": "Vanauf",
+      "firstName": "George",
+      "extension": "x4102",
+      "email": "gvanauf@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1143
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f47106fe1c2c083da7"
+  },
+  "officeCode": 4,
+  "addressLine1": "43 Rue Jouffroy D''abbans",
+  "city": "Paris",
+  "postalCode": "75017",
+  "country": "France",
+  "territory": "EMEA",
+  "employees": [
+    {
+      "lastName": "Bondur",
+      "firstName": "Gerard",
+      "extension": "x5408",
+      "email": "gbondur@classicmodelcars.com",
+      "jobTitle": "Sale Manager (EMEA)",
+      "reportsTo": 1056
+    },
+    {
+      "lastName": "Gerard",
+      "firstName": "Martin",
+      "extension": "x2312",
+      "email": "mgerard@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    },
+    {
+      "lastName": "Castillo",
+      "firstName": "Pamela",
+      "extension": "x2759",
+      "email": "pcastillo@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    },
+    {
+      "lastName": "Hernandez",
+      "firstName": "Gerard",
+      "extension": "x2028",
+      "email": "ghernande@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    },
+    {
+      "lastName": "Bondur",
+      "firstName": "Loui",
+      "extension": "x6493",
+      "email": "lbondur@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f57106fe1c2c083da8"
+  },
+  "officeCode": 5,
+  "addressLine1": "4-1 Kioicho",
+  "city": "Tokyo",
+  "state": "Chiyoda-Ku",
+  "postalCode": "102-8578",
+  "country": "Japan",
+  "territory": "Japan",
+  "employees": [
+    {
+      "lastName": "Nishi",
+      "firstName": "Mami",
+      "extension": "x101",
+      "email": "mnishi@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1056
+    },
+    {
+      "lastName": "Kato",
+      "firstName": "Yoshimi",
+      "extension": "x102",
+      "email": "ykato@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1621
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f57106fe1c2c083da9"
+  },
+  "officeCode": 6,
+  "addressLine1": "5-11 Wentworth Avenue",
+  "addressLine2": "Floor #2",
+  "city": "Sydney",
+  "postalCode": "NSW 2010",
+  "country": "Australia",
+  "territory": "APAC",
+  "employees": [
+    {
+      "lastName": "Patterson",
+      "firstName": "William",
+      "extension": "x4871",
+      "email": "wpatterson@classicmodelcars.com",
+      "jobTitle": "Sales Manager (APAC)",
+      "reportsTo": 1056
+    },
+    {
+      "lastName": "Fixter",
+      "firstName": "Andy",
+      "extension": "x101",
+      "email": "afixter@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1088
+    },
+    {
+      "lastName": "Marsh",
+      "firstName": "Peter",
+      "extension": "x102",
+      "email": "pmarsh@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1088
+    },
+    {
+      "lastName": "King",
+      "firstName": "Tom",
+      "extension": "x103",
+      "email": "tking@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1088
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f1679f57106fe1c2c083daa"
+  },
+  "officeCode": 7,
+  "addressLine1": "25 Old Broad Street",
+  "addressLine2": "Level 7",
+  "city": "London",
+  "postalCode": "EC2N 1HN",
+  "country": "UK",
+  "territory": "EMEA",
+  "employees": [
+    {
+      "lastName": "Bott",
+      "firstName": "Larry",
+      "extension": "x2311",
+      "email": "lbott@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    },
+    {
+      "lastName": "Jones",
+      "firstName": "Barry",
+      "extension": "x102",
+      "email": "bjones@classicmodelcars.com",
+      "jobTitle": "Sales Rep",
+      "reportsTo": 1102
+    }
+  ]
+}]
